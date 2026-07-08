@@ -16,7 +16,7 @@ Images rotate automatically — each post uses the next image in the folder.
 
 | File | Collection |
 |---|---|
-| `assets/bad-cats.png` | Bad Cats |
+| `assets/bad-cats/` | Bad Cats | 6 mint artworks |
 | `assets/bitcoin-mixtape.png` | Bitcoin Mixtape |
 
 ## Add more images

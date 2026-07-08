@@ -14,7 +14,7 @@ collections:
   - id: bad_cats
     name: Bad Cats
     url: https://richart.app/badcats
-    image: assets/bad-cats.png
+    image_dir: assets/bad-cats
     description: 500 hand-drawn recursive Ordinals — wild personalities, crazy accessories, and pure feline chaos on Bitcoin.
     talking_points:
       - 500 unique recursive Ordinals with hand-drawn layers
