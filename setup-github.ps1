@@ -1,15 +1,22 @@
 #Requires -Version 5.1
 $ErrorActionPreference = "Stop"
-Set-Location $PSScriptRoot ..
+Set-Location $PSScriptRoot
 
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" +
             [System.Environment]::GetEnvironmentVariable("Path", "User")
 
 function Require-GhAuth {
-    gh auth status *> $null
-    if ($LASTEXITCODE -ne 0) {
+    $loggedIn = $false
+    try {
+        gh auth status 2>&1 | Out-Null
+        if ($LASTEXITCODE -eq 0) { $loggedIn = $true }
+    } catch {
+        $loggedIn = $false
+    }
+    if (-not $loggedIn) {
         Write-Host "GitHub login required. Complete the browser login..."
         gh auth login -h github.com -p https -w
+        if ($LASTEXITCODE -ne 0) { throw "GitHub login failed." }
     }
 }
 
