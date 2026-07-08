@@ -7,7 +7,19 @@
       "posted_at": "2026-07-08T16:33:21.497568+00:00",
       "dry_run": false,
       "tweet_id": "2074894618018156761"
+    },
+    {
+      "text": "High Rollers are all about efficiency! 🃏 Mint up to 5 at once in a single transaction, paying lower fees. Each edition gets its own unique inscription on Bitcoin, delivered directly to your Taproot address. Get ready to roll! 🎰 https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0002.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-08T16:53:45.181305+00:00",
+      "dry_run": false,
+      "tweet_id": "2074899750210474080"
     }
   ],
-  "last_collection_index": 0
+  "last_collection_index": 2,
+  "last_image_indexes": {
+    "high_rollers": 0
+  }
 }
