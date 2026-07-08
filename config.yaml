@@ -18,12 +18,13 @@ dedup:
   similarity_threshold: 0.75
   history_limit: 50
 
+# GitHub Actions cron uses UTC. Times below target US Eastern (EDT, UTC-4).
 schedule_utc:
-  - "08:00"
-  - "11:00"
-  - "14:00"
-  - "17:00"
-  - "20:00"
+  - "13:00"  # 9:00 AM ET / 6:00 AM PT
+  - "16:00"  # 12:00 PM ET / 9:00 AM PT
+  - "19:00"  # 3:00 PM ET / 12:00 PM PT
+  - "22:00"  # 6:00 PM ET / 3:00 PM PT
+  - "01:00"  # 9:00 PM ET / 6:00 PM PT
 
 angles:
   - behind_the_scenes

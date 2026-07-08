@@ -2,11 +2,12 @@ name: Post Tweet
 
 on:
   schedule:
-    - cron: "0 8 * * *"
-    - cron: "0 11 * * *"
-    - cron: "0 14 * * *"
-    - cron: "0 17 * * *"
-    - cron: "0 20 * * *"
+    # US Eastern (EDT): 9am, 12pm, 3pm, 6pm, 9pm
+    - cron: "0 13 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 19 * * *"
+    - cron: "0 22 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 concurrency:

@@ -102,21 +102,15 @@ git push -u origin main
 
 ## 5. Zeitplan
 
-Der Bot postet **11× täglich** (UTC):
+Der Bot postet **5× täglich**, verteilt über den **US-Tag** (GitHub Actions nutzt UTC):
 
-| UTC | MESZ (Sommer) |
-|---|---|
-| 07:00 | 09:00 |
-| 08:30 | 10:30 |
-| 10:00 | 12:00 |
-| 11:30 | 13:30 |
-| 13:00 | 15:00 |
-| 14:30 | 16:30 |
-| 16:00 | 18:00 |
-| 17:30 | 19:30 |
-| 19:00 | 21:00 |
-| 20:30 | 22:30 |
-| 22:00 | 00:00 |
+| UTC | US Eastern (EDT) | US Pacific (PDT) |
+|---|---|---|
+| 13:00 | 9:00 AM | 6:00 AM |
+| 16:00 | 12:00 PM | 9:00 AM |
+| 19:00 | 3:00 PM | 12:00 PM |
+| 22:00 | 6:00 PM | 3:00 PM |
+| 01:00 | 9:00 PM | 6:00 PM |
 
 Zeiten anpassen: bearbeite `schedule_utc` in `config.yaml` **und** die `cron`-Einträge in `.github/workflows/tweet.yml`.
 
