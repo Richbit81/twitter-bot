@@ -1,0 +1,40 @@
+account:
+  handle: "@richbi11"
+  voice: "Oneironaut, on-chain artist, builder — stoked, playful, never salesy"
+
+posting:
+  tweets_per_day: 11
+  max_chars: 280
+  include_link: true
+  link_placement: end
+
+openai:
+  model: gpt-4o-mini
+  temperature: 0.9
+
+dedup:
+  max_retries: 3
+  similarity_threshold: 0.75
+  history_limit: 50
+
+schedule_utc:
+  - "07:00"
+  - "08:30"
+  - "10:00"
+  - "11:30"
+  - "13:00"
+  - "14:30"
+  - "16:00"
+  - "17:30"
+  - "19:00"
+  - "20:30"
+  - "22:00"
+
+angles:
+  - behind_the_scenes
+  - collector_pov
+  - tech_fact
+  - community
+  - mint_reminder
+  - creative_process
+  - on_chain_permanence

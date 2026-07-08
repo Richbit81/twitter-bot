@@ -1,0 +1,55 @@
+collections:
+  - id: primal_club
+    name: Primal Club
+    url: https://richart.app/primal-club
+    description: An exclusive Bitcoin Ordinals club of 480 unique digital primates — genesis collection for collectors, dreamers, and certified Web3 degenerates.
+    talking_points:
+      - 480 unique primates, each one different — random mint, real image inscribed on Bitcoin
+      - A club run by monkeys — good vibes, questionable financial decisions, certified chaos
+      - Public mint at 5,000 sats plus inscription fees
+      - Delivered directly to your Taproot address (bc1p...)
+      - Minting a Primal Club earns +3 bonus spins on the richart.app prize spinner
+
+  - id: bad_cats
+    name: Bad Cats
+    url: https://richart.app/badcats
+    description: 500 hand-drawn recursive Ordinals — wild personalities, crazy accessories, and pure feline chaos on Bitcoin.
+    talking_points:
+      - 500 unique recursive Ordinals with hand-drawn layers
+      - Hundreds of traits, wild personalities, crazy accessories, tons of attitude
+      - A few hidden 1/1 psychopaths in the mix
+      - No rules, no mercy — every Bad Cat drips with style and bad vibes
+      - Mint on richart.app/badcats — minting earns +3 bonus spins on the richart.app spinner
+
+  - id: high_rollers
+    name: High Rollers
+    url: https://richart.app/high-rollers
+    description: Bitcoin Ordinals collection for those who play at the table — mint up to 5 at once, all inscribed in one transaction and sent to your Taproot address.
+    talking_points:
+      - Mint up to 5 High Rollers in one transaction — cheaper on fees
+      - Each inscription delivered to your Taproot address (bc1p...)
+      - Numbered editions inscribed directly on Bitcoin
+      - Live on richart.app alongside Primal Club, Bad Cats, and Spikes
+      - Minting earns +3 bonus spins on the richart.app prize spinner
+
+  - id: spikes
+    name: Spikes
+    url: https://richart.app/spikes
+    description: Cyber Spikes — generative on-chain characters with massive spiky heads, glowing-symbol faces, and futuristic streetwear in a cyberpunk matrix aesthetic.
+    talking_points:
+      - Slim humanoid characters with big spiky heads and blank glowing-symbol faces
+      - Futuristic streetwear, cyberpunk and matrix-inspired scenes
+      - Unique spike traits — chrome, holographic, neon circuit, galaxy editions
+      - Full-body character art inscribed on Bitcoin
+      - Mint on richart.app/spikes — minting earns +3 bonus spins on the richart.app spinner
+
+  - id: bitcoin_mixtape
+    name: Bitcoin Mixtape
+    url: https://richart.app/bitcoin-mixtape
+    description: Music on Bitcoin — not a finished artwork but a growing archive. A dynamic, evolving music project fully embedded on the Bitcoin blockchain as Ordinals.
+    talking_points:
+      - 100% on-chain audio — permanent, interoperable, actively expandable
+      - 16+ tracks inscribed as Ordinals with high-quality audio
+      - Interactive tracklist with title, artist, and duration
+      - Multiple tape covers inscribed on-chain
+      - Integrated into games like PatoshiWorld — players listen while exploring
