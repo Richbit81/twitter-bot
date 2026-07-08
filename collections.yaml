@@ -2,7 +2,7 @@ collections:
   - id: primal_club
     name: Primal Club
     url: https://richart.app/primal-club
-    image: assets/primal-club.png
+    image_dir: assets/primal-club
     description: An exclusive Bitcoin Ordinals club of 480 unique digital primates — genesis collection for collectors, dreamers, and certified Web3 degenerates.
     talking_points:
       - 480 unique primates, each one different — random mint, real image inscribed on Bitcoin
@@ -26,7 +26,7 @@ collections:
   - id: high_rollers
     name: High Rollers
     url: https://richart.app/high-rollers
-    image: assets/high-rollers.png
+    image_dir: assets/high-rollers
     description: Bitcoin Ordinals collection for those who play at the table — mint up to 5 at once, all inscribed in one transaction and sent to your Taproot address.
     talking_points:
       - Mint up to 5 High Rollers in one transaction — cheaper on fees
@@ -38,7 +38,7 @@ collections:
   - id: spikes
     name: Spikes
     url: https://richart.app/spikes
-    image: assets/spikes.png
+    image_dir: assets/spikes
     description: Cyber Spikes — generative on-chain characters with massive spiky heads, glowing-symbol faces, and futuristic streetwear in a cyberpunk matrix aesthetic.
     talking_points:
       - Slim humanoid characters with big spiky heads and blank glowing-symbol faces

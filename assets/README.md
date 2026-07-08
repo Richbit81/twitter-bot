@@ -1,15 +1,26 @@
-# Tweet images (PNG/JPG, max 5 MB)
+# Tweet images
 
-Each collection needs one image attached to every tweet.
+Each collection attaches one image per tweet.
 
-| File | Collection | Source |
+## Rotating image folders
+
+| Folder | Collection | Images |
 |---|---|---|
-| primal-club.png | Primal Club | richart.app banner |
-| bad-cats.png | Bad Cats | richart.app background |
-| bitcoin-mixtape.png | Bitcoin Mixtape | richart.app mixtape art |
-| high-rollers.png | High Rollers | placeholder — replace with your High Rollers promo art |
-| spikes.png | Spikes | placeholder — replace with your Spikes promo art |
+| `assets/primal-club/` | Primal Club | 5 mint artworks |
+| `assets/high-rollers/` | High Rollers | 5 mint artworks |
+| `assets/spikes/` | Spikes | 4 mint artworks |
 
-Replace `high-rollers.png` and `spikes.png` with square PNG/JPG promos (1200x675 or 1080x1080 works well).
+Images rotate automatically — each post uses the next image in the folder.
 
-Update the path in `collections.yaml` if you use different filenames.
+## Single images
+
+| File | Collection |
+|---|---|
+| `assets/bad-cats.png` | Bad Cats |
+| `assets/bitcoin-mixtape.png` | Bitcoin Mixtape |
+
+## Add more images
+
+Drop PNG/JPG files into a collection folder and commit — the bot picks them up automatically.
+
+Configure folders in `collections.yaml` via `image_dir:` or single files via `image:`.

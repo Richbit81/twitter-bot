@@ -123,6 +123,8 @@ def record_tweet(
     tweet: str,
     collection_id: str,
     collection_index: int,
+    image_path: str,
+    image_index: int,
     angle: str,
     dry_run: bool,
     tweet_id: str | None = None,
@@ -130,6 +132,7 @@ def record_tweet(
     entry = {
         "text": tweet,
         "collection_id": collection_id,
+        "image": image_path,
         "angle": angle,
         "posted_at": datetime.now(timezone.utc).isoformat(),
         "dry_run": dry_run,
@@ -139,3 +142,4 @@ def record_tweet(
 
     history.setdefault("entries", []).append(entry)
     history["last_collection_index"] = collection_index
+    history.setdefault("last_image_indexes", {})[collection_id] = image_index

@@ -14,6 +14,7 @@ from src.config_loader import (
     load_history,
     load_system_prompt,
     pick_collection,
+    pick_image,
     save_history,
 )
 from src.generate import generate_unique_tweet, record_tweet
@@ -53,10 +54,11 @@ def main() -> int:
     history = load_history(args.root)
 
     collection, collection_index = pick_collection(collections, history)
+    image_path, image_index = pick_image(collection, history)
     angles = config.angles or ["creative_process"]
 
     print(f"Collection: {collection.name} ({collection.id})")
-    print(f"Image: {collection.image}")
+    print(f"Image: {image_path}")
 
     if args.dry_run:
         credentials = None
@@ -96,9 +98,9 @@ def main() -> int:
     tweet_id = None
     if args.dry_run:
         print("[DRY RUN] Tweet not posted to X.")
-        print(f"[DRY RUN] Would attach image: {collection.image}")
+        print(f"[DRY RUN] Would attach image: {image_path}")
     else:
-        tweet_id = post_tweet(credentials, tweet, collection.image, args.root)
+        tweet_id = post_tweet(credentials, tweet, image_path, args.root)
         print(f"Posted successfully with image. Tweet ID: {tweet_id}")
 
     if args.dry_run:
@@ -109,6 +111,8 @@ def main() -> int:
             tweet=tweet,
             collection_id=collection.id,
             collection_index=collection_index,
+            image_path=image_path,
+            image_index=image_index,
             angle=angle,
             dry_run=False,
             tweet_id=tweet_id,

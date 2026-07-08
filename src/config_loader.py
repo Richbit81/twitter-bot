@@ -17,7 +17,7 @@ class Collection:
     id: str
     name: str
     url: str
-    image: str
+    images: list[str]
     description: str
     talking_points: list[str]
 
@@ -65,6 +65,26 @@ def load_config(root: Path = ROOT_DIR) -> Config:
     )
 
 
+def _resolve_images(item: dict[str, Any], root: Path) -> list[str]:
+    if item.get("images"):
+        return [str(p) for p in item["images"]]
+
+    if item.get("image_dir"):
+        folder = root / item["image_dir"]
+        files = sorted(
+            p for p in folder.iterdir()
+            if p.is_file() and p.suffix.lower() in {".png", ".jpg", ".jpeg", ".webp", ".gif"}
+        )
+        if not files:
+            raise ValueError(f"No images found in {folder}")
+        return [str(p.relative_to(root)).replace("\\", "/") for p in files]
+
+    if item.get("image"):
+        return [item["image"]]
+
+    raise ValueError(f"Collection {item.get('id')} needs image, images, or image_dir")
+
+
 def load_collections(root: Path = ROOT_DIR) -> list[Collection]:
     with open(root / "collections.yaml", encoding="utf-8") as f:
         data = yaml.safe_load(f)
@@ -74,7 +94,7 @@ def load_collections(root: Path = ROOT_DIR) -> list[Collection]:
             id=item["id"],
             name=item["name"],
             url=item["url"],
-            image=item["image"],
+            images=_resolve_images(item, root),
             description=item["description"],
             talking_points=item["talking_points"],
         )
@@ -126,3 +146,12 @@ def pick_collection(
     last_index = history.get("last_collection_index", -1)
     next_index = (last_index + 1) % len(collections)
     return collections[next_index], next_index
+
+
+def pick_image(
+    collection: Collection, history: dict[str, Any]
+) -> tuple[str, int]:
+    indexes: dict[str, int] = history.setdefault("last_image_indexes", {})
+    last_index = indexes.get(collection.id, -1)
+    next_index = (last_index + 1) % len(collection.images)
+    return collection.images[next_index], next_index
