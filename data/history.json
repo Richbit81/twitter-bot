@@ -16,10 +16,20 @@
       "posted_at": "2026-07-08T16:53:45.181305+00:00",
       "dry_run": false,
       "tweet_id": "2074899750210474080"
+    },
+    {
+      "text": "Just stumbled upon the Cyber Spikes collection — these slim characters with massive spiky heads are next level! 🤯 The glowing-symbol faces and futuristic streetwear are a must-see. Minting earns you +3 bonus spins on the richart.app spinner! 🔥 https://richart.app/spikes",
+      "collection_id": "spikes",
+      "image": "assets/spikes/0001.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-08T18:17:21.499385+00:00",
+      "dry_run": false,
+      "tweet_id": "2074920790445969906"
     }
   ],
-  "last_collection_index": 2,
+  "last_collection_index": 3,
   "last_image_indexes": {
-    "high_rollers": 0
+    "high_rollers": 0,
+    "spikes": 0
   }
 }
