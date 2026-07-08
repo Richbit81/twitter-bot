@@ -25,11 +25,21 @@
       "posted_at": "2026-07-08T18:17:21.499385+00:00",
       "dry_run": false,
       "tweet_id": "2074920790445969906"
+    },
+    {
+      "text": "Did you know? Every track in the Bitcoin Mixtape is 100% on-chain! 🎶 It’s a dynamic archive of audio, permanently inscribed as Ordinals. With high-quality sound and an interactive tracklist, it’s a music experience like no other. Check it out: https://richart.app/bitcoin-mixtape",
+      "collection_id": "bitcoin_mixtape",
+      "image": "assets/bitcoin-mixtape.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-08T22:59:39.127584+00:00",
+      "dry_run": false,
+      "tweet_id": "2074991831931039922"
     }
   ],
-  "last_collection_index": 3,
+  "last_collection_index": 4,
   "last_image_indexes": {
     "high_rollers": 0,
-    "spikes": 0
+    "spikes": 0,
+    "bitcoin_mixtape": 0
   }
 }
