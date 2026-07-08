@@ -17,6 +17,7 @@ class Collection:
     id: str
     name: str
     url: str
+    image: str
     description: str
     talking_points: list[str]
 
@@ -73,6 +74,7 @@ def load_collections(root: Path = ROOT_DIR) -> list[Collection]:
             id=item["id"],
             name=item["name"],
             url=item["url"],
+            image=item["image"],
             description=item["description"],
             talking_points=item["talking_points"],
         )

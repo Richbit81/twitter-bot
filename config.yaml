@@ -3,10 +3,11 @@ account:
   voice: "Oneironaut, on-chain artist, builder — stoked, playful, never salesy"
 
 posting:
-  tweets_per_day: 11
+  tweets_per_day: 5
   max_chars: 280
   include_link: true
   link_placement: end
+  include_image: true
 
 openai:
   model: gpt-4o-mini
@@ -18,17 +19,11 @@ dedup:
   history_limit: 50
 
 schedule_utc:
-  - "07:00"
-  - "08:30"
-  - "10:00"
-  - "11:30"
-  - "13:00"
-  - "14:30"
-  - "16:00"
-  - "17:30"
-  - "19:00"
-  - "20:30"
-  - "22:00"
+  - "08:00"
+  - "11:00"
+  - "14:00"
+  - "17:00"
+  - "20:00"
 
 angles:
   - behind_the_scenes

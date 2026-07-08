@@ -56,6 +56,7 @@ def main() -> int:
     angles = config.angles or ["creative_process"]
 
     print(f"Collection: {collection.name} ({collection.id})")
+    print(f"Image: {collection.image}")
 
     if args.dry_run:
         credentials = None
@@ -95,9 +96,10 @@ def main() -> int:
     tweet_id = None
     if args.dry_run:
         print("[DRY RUN] Tweet not posted to X.")
+        print(f"[DRY RUN] Would attach image: {collection.image}")
     else:
-        tweet_id = post_tweet(credentials, tweet)
-        print(f"Posted successfully. Tweet ID: {tweet_id}")
+        tweet_id = post_tweet(credentials, tweet, collection.image, args.root)
+        print(f"Posted successfully with image. Tweet ID: {tweet_id}")
 
     if args.dry_run:
         print("[DRY RUN] History not updated.")
