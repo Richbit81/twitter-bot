@@ -43,13 +43,23 @@
       "posted_at": "2026-07-09T04:42:08.307944+00:00",
       "dry_run": false,
       "tweet_id": "2075078021653103066"
+    },
+    {
+      "text": "Creativity flows in chaos! 🎨 The Bad Cats collection features 500 hand-drawn Ordinals, blending wild personalities and crazy accessories. Each one is unique, with some surprise 1/1 psychopaths lurking. Dive into the madness and mint yours! 😼 https://richart.app/badcats",
+      "collection_id": "bad_cats",
+      "image": "assets/bad-cats/12.png",
+      "angle": "creative_process",
+      "posted_at": "2026-07-09T15:50:09.143868+00:00",
+      "dry_run": false,
+      "tweet_id": "2075246132502954119"
     }
   ],
-  "last_collection_index": 0,
+  "last_collection_index": 1,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 0,
     "bitcoin_mixtape": 0,
-    "primal_club": 0
+    "primal_club": 0,
+    "bad_cats": 0
   }
 }
