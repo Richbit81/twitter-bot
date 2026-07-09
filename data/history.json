@@ -70,9 +70,18 @@
       "posted_at": "2026-07-09T20:50:35.760511+00:00",
       "dry_run": false,
       "tweet_id": "2075321741610504560"
+    },
+    {
+      "text": "Don't sleep on the Bitcoin Mixtape! 🎶 A living, breathing music project on-chain with 16+ tracks and interactive features. Perfect for vibing while exploring worlds like Patoshi. Join the archive and tap into the sound! https://richart.app/bitcoin-mixtape",
+      "collection_id": "bitcoin_mixtape",
+      "image": "assets/bitcoin-mixtape.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-09T23:06:58.239874+00:00",
+      "dry_run": false,
+      "tweet_id": "2075356061536591882"
     }
   ],
-  "last_collection_index": 3,
+  "last_collection_index": 4,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 1,
