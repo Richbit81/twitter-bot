@@ -34,12 +34,22 @@
       "posted_at": "2026-07-08T22:59:39.127584+00:00",
       "dry_run": false,
       "tweet_id": "2074991831931039922"
+    },
+    {
+      "text": "Join the Primal Club — a community of 480 unique digital primates! 🐒 This is where collectors, dreamers, and Web3 degenerates come together in beautiful chaos. Minting your primate earns you +3 spins on the richart.app prize spinner! Let's go! 🔥 https://richart.app/primal-club",
+      "collection_id": "primal_club",
+      "image": "assets/primal-club/0031.png",
+      "angle": "community",
+      "posted_at": "2026-07-09T04:42:08.307944+00:00",
+      "dry_run": false,
+      "tweet_id": "2075078021653103066"
     }
   ],
-  "last_collection_index": 4,
+  "last_collection_index": 0,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 0,
-    "bitcoin_mixtape": 0
+    "bitcoin_mixtape": 0,
+    "primal_club": 0
   }
 }
