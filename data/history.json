@@ -61,12 +61,21 @@
       "posted_at": "2026-07-09T17:49:03.312684+00:00",
       "dry_run": false,
       "tweet_id": "2075276055397482631"
+    },
+    {
+      "text": "Cyber Spikes are ready to take over! 🔥 These unique, slim characters sport massive spiky heads and glowing-symbol faces, all wrapped up in futuristic streetwear. Mint yours on richart.app and snag +3 bonus spins on the spinner! 🌌 https://richart.app/spikes",
+      "collection_id": "spikes",
+      "image": "assets/spikes/0002.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-09T20:50:35.760511+00:00",
+      "dry_run": false,
+      "tweet_id": "2075321741610504560"
     }
   ],
-  "last_collection_index": 2,
+  "last_collection_index": 3,
   "last_image_indexes": {
     "high_rollers": 1,
-    "spikes": 0,
+    "spikes": 1,
     "bitcoin_mixtape": 0,
     "primal_club": 0,
     "bad_cats": 0
