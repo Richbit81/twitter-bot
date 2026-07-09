@@ -52,11 +52,20 @@
       "posted_at": "2026-07-09T15:50:09.143868+00:00",
       "dry_run": false,
       "tweet_id": "2075246132502954119"
+    },
+    {
+      "text": "Feeling lucky? 🎰 High Rollers lets you mint up to 5 in one go — lower fees, all inscribed directly on Bitcoin. Plus, earn +3 bonus spins on the richart.app prize spinner for each mint! Let's roll the dice! https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0035.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-09T17:49:03.312684+00:00",
+      "dry_run": false,
+      "tweet_id": "2075276055397482631"
     }
   ],
-  "last_collection_index": 1,
+  "last_collection_index": 2,
   "last_image_indexes": {
-    "high_rollers": 0,
+    "high_rollers": 1,
     "spikes": 0,
     "bitcoin_mixtape": 0,
     "primal_club": 0,
