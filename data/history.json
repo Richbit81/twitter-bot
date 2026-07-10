@@ -88,14 +88,23 @@
       "posted_at": "2026-07-10T04:43:16.950754+00:00",
       "dry_run": false,
       "tweet_id": "2075440697428074807"
+    },
+    {
+      "text": "Each Bad Cat is a permanent testament to creativity on Bitcoin 🧡 500 unique Ordinals dripping with style, wild vibes, and hidden 1/1 psychopaths! No rules, no mercy — just pure feline chaos waiting to be minted. 🐾 Join the madness: https://richart.app/badcats",
+      "collection_id": "bad_cats",
+      "image": "assets/bad-cats/15.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-10T15:24:57.161218+00:00",
+      "dry_run": false,
+      "tweet_id": "2075602178966786324"
     }
   ],
-  "last_collection_index": 0,
+  "last_collection_index": 1,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 1,
     "bitcoin_mixtape": 0,
     "primal_club": 1,
-    "bad_cats": 0
+    "bad_cats": 1
   }
 }
