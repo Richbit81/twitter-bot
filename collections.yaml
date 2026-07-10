@@ -7,8 +7,8 @@ collections:
     talking_points:
       - 480 unique primates, each one different — random mint, real image inscribed on Bitcoin
       - A club run by monkeys — good vibes, questionable financial decisions, certified chaos
+      - Volume discount: the more you mint, the better the deal — mint 5, get 1 free
       - Public mint at 5,000 sats plus inscription fees
-      - Delivered directly to your Taproot address (bc1p...)
       - Minting a Primal Club earns +3 bonus spins on the richart.app prize spinner
 
   - id: bad_cats
@@ -30,9 +30,9 @@ collections:
     description: Bitcoin Ordinals collection for those who play at the table — mint up to 5 at once, all inscribed in one transaction and sent to your Taproot address.
     talking_points:
       - Mint up to 5 High Rollers in one transaction — cheaper on fees
+      - Volume discount: the more you mint, the better the deal — mint 5, get 1 free
       - Each inscription delivered to your Taproot address (bc1p...)
       - Numbered editions inscribed directly on Bitcoin
-      - Live on richart.app alongside Primal Club, Bad Cats, and Spikes
       - Minting earns +3 bonus spins on the richart.app prize spinner
 
   - id: spikes
@@ -43,9 +43,57 @@ collections:
     talking_points:
       - Slim humanoid characters with big spiky heads and blank glowing-symbol faces
       - Futuristic streetwear, cyberpunk and matrix-inspired scenes
-      - Unique spike traits — chrome, holographic, neon circuit, galaxy editions
+      - Volume discount: the more you mint, the better the deal — mint 5, get 1 free
       - Full-body character art inscribed on Bitcoin
       - Mint on richart.app/spikes — minting earns +3 bonus spins on the richart.app spinner
+
+  - id: smile_a_bit
+    name: Smile a Bit
+    url: https://richart.app/smile-a-bit
+    image_dir: assets/smile-a-bit
+    description: SMILE A BIT — 222 unique Bitcoin Smiley Ordinals with iconic B-shaped glasses. Infinite good vibes, born in 2021, now smiling on Bitcoin.
+    talking_points:
+      - 222 unique Bitcoin Smiley Ordinals
+      - Iconic B-shaped glasses — positivity, energy, and crypto emotion on-chain
+      - Each smiley reflects a different mood — from pure joy to crypto chaos
+      - Life is better with a smile — let's turn frowns into Brows
+      - Mint on richart.app/smile-a-bit
+
+  - id: tesseract
+    name: TESSERACT
+    url: https://richart.app/acs
+    image_dir: assets/tesseract
+    description: Generative on-chain art where every mint is unique — inscription ID, block, and mempool path become part of the artwork. Bitcoin creates the final piece.
+    talking_points:
+      - Each inscription produces a unique hypercube with its own geometry, palette, and soundscape
+      - The collector participates in creation — Bitcoin generates the final piece
+      - No two inscriptions can ever be the same
+      - Transforms inscription from storage into an act of creation
+      - Mint on richart.app/acs
+
+  - id: slums
+    name: SLUMS
+    url: https://richart.app/slums
+    image_dir: assets/slums
+    description: 333 unique pixel art characters inscribed on Bitcoin — 6 hand-crafted layers creating thousands of trait combinations.
+    talking_points:
+      - 333 unique pixel characters on Bitcoin
+      - Six hand-crafted layers — background, body, clothes, mouth, eyes, and top
+      - Thousands of possible trait combinations
+      - Fully on-chain pixel art
+      - Mint on richart.app/slums
+
+  - id: dimension_break
+    name: Dimension Break
+    url: https://richart.app/dimension-break
+    image_dir: assets/dimension-break
+    description: Dimension Break — on-chain Ordinals collection on richart.app, part of the creative Bitcoin ecosystem.
+    talking_points:
+      - Live mint on richart.app/dimension-break
+      - Unique Ordinals inscribed on Bitcoin
+      - Part of the richart.app creative ecosystem
+      - Delivered to your Taproot address
+      - Built for collectors who explore beyond the surface
 
   - id: bitcoin_mixtape
     name: Bitcoin Mixtape
