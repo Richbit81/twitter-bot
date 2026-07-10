@@ -10,10 +10,10 @@ Each collection attaches one image per tweet.
 | `assets/high-rollers/` | High Rollers | 5 mint artworks |
 | `assets/spikes/` | Spikes | 4 mint artworks |
 | `assets/bad-cats/` | Bad Cats | 6 mint artworks |
-| `assets/smile-a-bit/` | Smile a Bit | promo art |
-| `assets/tesseract/` | TESSERACT | placeholder — replace with mint art |
-| `assets/slums/` | SLUMS | placeholder — replace with mint art |
-| `assets/dimension-break/` | Dimension Break | placeholder — replace with mint art |
+| `assets/smile-a-bit/` | Smile a Bit | 6 screenshots |
+| `assets/tesseract/` | TESSERACT | 1 artwork |
+| `assets/slums/` | SLUMS | 3 artworks |
+| `assets/dimension-break/` | Dimension Break | 3 artworks + 2 runners |
 
 Images rotate automatically — each post uses the next image in the folder.
 
