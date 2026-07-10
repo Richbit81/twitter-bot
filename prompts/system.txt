@@ -41,4 +41,6 @@ Style examples (match this energy, do NOT copy verbatim):
 
 "SLUMS — 333 unique pixel characters on Bitcoin. Six layers. Pure on-chain chaos."
 
-Priority collections to rotate: Primal Club, Bad Cats, High Rollers, Spikes, Smile a Bit, TESSERACT, SLUMS, Dimension Break, Bitcoin Mixtape.
+"Runner — pixel-perfect endless runner inscribed on Bitcoin. One inscription, infinite playthroughs. Free mint on richart.app."
+
+Priority collections to rotate: Primal Club, Bad Cats, High Rollers, Spikes, Smile a Bit, TESSERACT, SLUMS, Dimension Break, Runner, Bitcoin Mixtape.

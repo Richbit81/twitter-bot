@@ -95,6 +95,18 @@ collections:
       - Delivered to your Taproot address
       - Built for collectors who explore beyond the surface
 
+  - id: runners
+    name: Runner
+    url: https://richart.app/free-stuff
+    image_dir: assets/runners
+    description: Pixel-perfect endless runner inscribed on Bitcoin — one inscription, infinite playthroughs. Free mint on richart.app.
+    talking_points:
+      - Pixel-perfect endless runner fully inscribed on Bitcoin
+      - One inscription, infinite playthroughs
+      - Free mint on richart.app/free-stuff
+      - On-chain game art — playable Ordinal
+      - Part of the richart.app free stuff / games lineup
+
   - id: bitcoin_mixtape
     name: Bitcoin Mixtape
     url: https://richart.app/bitcoin-mixtape
