@@ -106,12 +106,21 @@
       "posted_at": "2026-07-10T17:41:33.921920+00:00",
       "dry_run": false,
       "tweet_id": "2075636558745780406"
+    },
+    {
+      "text": "Cyber Spikes are pure on-chain creativity! 💥 Each slim character is a unique generative art piece, featuring massive spiky heads and glowing-symbol faces. Plus, the more you mint, the better the deal — mint 5, get 1 free! 🎮 Check it out: https://richart.app/spikes",
+      "collection_id": "spikes",
+      "image": "assets/spikes/0003.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-10T22:56:03.044891+00:00",
+      "dry_run": false,
+      "tweet_id": "2075715700979581335"
     }
   ],
-  "last_collection_index": 2,
+  "last_collection_index": 3,
   "last_image_indexes": {
     "high_rollers": 2,
-    "spikes": 1,
+    "spikes": 2,
     "bitcoin_mixtape": 0,
     "primal_club": 1,
     "bad_cats": 1
