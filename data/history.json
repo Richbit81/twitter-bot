@@ -79,14 +79,23 @@
       "posted_at": "2026-07-09T23:06:58.239874+00:00",
       "dry_run": false,
       "tweet_id": "2075356061536591882"
+    },
+    {
+      "text": "Building the Primal Club has been a wild adventure! Each unique primate is a random mint, living on-chain with its own story. 🍌 It's chaos, good vibes, and questionable decisions all rolled into one. Can’t wait for you to join the madness! 🐒 https://richart.app/primal-club",
+      "collection_id": "primal_club",
+      "image": "assets/primal-club/0042.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-10T04:43:16.950754+00:00",
+      "dry_run": false,
+      "tweet_id": "2075440697428074807"
     }
   ],
-  "last_collection_index": 4,
+  "last_collection_index": 0,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 1,
     "bitcoin_mixtape": 0,
-    "primal_club": 0,
+    "primal_club": 1,
     "bad_cats": 0
   }
 }
