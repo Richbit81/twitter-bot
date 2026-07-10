@@ -97,11 +97,20 @@
       "posted_at": "2026-07-10T15:24:57.161218+00:00",
       "dry_run": false,
       "tweet_id": "2075602178966786324"
+    },
+    {
+      "text": "Building High Rollers was all about merging fun with efficiency! 🎲 Minting up to 5 in one transaction not only saves on fees, but each unique inscription goes straight to your Taproot address. Can't wait to see the community rolling those dice! 🔥 https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0052.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-10T17:41:33.921920+00:00",
+      "dry_run": false,
+      "tweet_id": "2075636558745780406"
     }
   ],
-  "last_collection_index": 1,
+  "last_collection_index": 2,
   "last_image_indexes": {
-    "high_rollers": 1,
+    "high_rollers": 2,
     "spikes": 1,
     "bitcoin_mixtape": 0,
     "primal_club": 1,
