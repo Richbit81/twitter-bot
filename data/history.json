@@ -133,9 +133,18 @@
       "posted_at": "2026-07-11T14:15:20.823412+00:00",
       "dry_run": false,
       "tweet_id": "2075947049841729762"
+    },
+    {
+      "text": "The SLUMS collection is alive! 333 unique pixel art characters waiting to be discovered on Bitcoin. With six hand-crafted layers, you're in for thousands of combo surprises. Dive into the pixel chaos! 🌟 https://richart.app/slums",
+      "collection_id": "slums",
+      "image": "assets/slums/slums-1.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-11T16:44:11.513640+00:00",
+      "dry_run": false,
+      "tweet_id": "2075984508084539653"
     }
   ],
-  "last_collection_index": 5,
+  "last_collection_index": 6,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
@@ -143,6 +152,7 @@
     "primal_club": 1,
     "bad_cats": 1,
     "smile_a_bit": 0,
-    "tesseract": 0
+    "tesseract": 0,
+    "slums": 0
   }
 }
