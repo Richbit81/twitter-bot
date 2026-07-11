@@ -16,6 +16,11 @@ Each collection attaches one image per tweet.
 | `assets/dimension-break/` | Dimension Break | 3 artworks |
 | `assets/runners/` | Runner | 2 artworks |
 | `assets/sons-of-satoshi/` | Sons of Satoshi | Evolution promo |
+| `assets/droidz/` | DROIDZ | promo art |
+| `assets/simulator/` | Consciousness Simulator | card art |
+| `assets/negative-type/` | Negative Type | 10+ mint artworks |
+| `assets/ordheadz/` | Ordheadz | promo art |
+| `assets/splitverse-panda/` | SplitVerse PANDA | promo art |
 
 Images rotate automatically — each post uses the next image in the folder.
 

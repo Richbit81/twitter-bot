@@ -119,6 +119,66 @@ collections:
       - Also on ord-dropz.xyz/secondary and ord.net
       - Hidden among us — against the system
 
+  - id: droidz
+    name: DROIDZ
+    url: https://ord-dropz.xyz
+    image_dir: assets/droidz
+    description: The little DROIDZ are causing trouble on the blockchain — 100 pixel art, 100% on-chain Bitcoin Ordinals.
+    talking_points:
+      - The little DROIDZ are causing trouble on the blockchain
+      - 100 Pixel Art — 100% on-chain
+      - Catch them on Ord Dropz and ord.net
+      - Tiny robots, big chaos on Bitcoin
+      - Fully inscribed pixel droids
+
+  - id: consciousness_simulator
+    name: Consciousness Simulator
+    url: https://www.ord-x.com/#Inside-the-Consciousness-Simulator
+    image_dir: assets/simulator
+    description: Worlds collide — Inside the Consciousness Simulator and Are Ordinals Dead unite in a deck of cards. Wake up in the Simulator.
+    talking_points:
+      - Worlds collide — Inside the Consciousness Simulator meets Are Ordinals Dead
+      - A deck of cards on Bitcoin — wake up in the Simulator
+      - Mint on OrdX
+      - Card packs that fuse two concepts into one experience
+      - Live on ord-x.com
+
+  - id: negative_type
+    name: Negative Type
+    url: https://ord-dropz.xyz
+    image_dir: assets/negative-type
+    description: Negative Type — for when you're not okay with being okay. Mint live on Ord Dropz.
+    talking_points:
+      - For when you're not okay with being okay
+      - Mint live on Ord Dropz
+      - Dark mood, sharp style — on-chain
+      - Negative Type by richbi11
+      - Live mint on ord-dropz.xyz
+
+  - id: ordheadz
+    name: Ordheadz
+    url: https://ord-dropz.xyz
+    image_dir: assets/ordheadz
+    description: Ordheadz by richbi11 — minting on the Ord Dropz Launchpad. 333 supply, 1,000 sats each. Over 200 layers of generative chaos.
+    talking_points:
+      - Minting on the Ord Dropz Launchpad
+      - 333 Ordheadz — 1,000 sats each
+      - Over 200 layers of generative traits
+      - Also on richart.app/marketplace
+      - Built by richbi11 for the Ordinals community
+
+  - id: splitverse_panda
+    name: SplitVerse PANDA
+    url: https://opensea.io/collection/splitverse-panda
+    image_dir: assets/splitverse-panda
+    description: SplitVerse PANDA mint live on OpenSea.
+    talking_points:
+      - SplitVerse PANDA mint on OpenSea
+      - Live collection drop
+      - Part of the SplitVerse universe
+      - Mint on opensea.io
+      - Cross-chain creative experiment by richbi11
+
   - id: bitcoin_mixtape
     name: Bitcoin Mixtape
     url: https://richart.app/bitcoin-mixtape
