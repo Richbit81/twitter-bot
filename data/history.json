@@ -115,14 +115,24 @@
       "posted_at": "2026-07-10T22:56:03.044891+00:00",
       "dry_run": false,
       "tweet_id": "2075715700979581335"
+    },
+    {
+      "text": "The creative spark behind Smile a Bit was ignited by the power of positivity! ✨ Each of the 222 unique Bitcoin Smiley Ordinals reflects a different mood—turning frowns into smiles with iconic B-shaped glasses. Let's spread those good vibes! 😄 https://richart.app/smile-a-bit",
+      "collection_id": "smile_a_bit",
+      "image": "assets/smile-a-bit/smile-1.png",
+      "angle": "creative_process",
+      "posted_at": "2026-07-11T03:59:33.459883+00:00",
+      "dry_run": false,
+      "tweet_id": "2075792081554194559"
     }
   ],
-  "last_collection_index": 3,
+  "last_collection_index": 4,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
     "bitcoin_mixtape": 0,
     "primal_club": 1,
-    "bad_cats": 1
+    "bad_cats": 1,
+    "smile_a_bit": 0
   }
 }
