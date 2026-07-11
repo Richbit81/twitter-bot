@@ -87,9 +87,9 @@ collections:
     name: Dimension Break
     url: https://richart.app/dimension-break
     image_dir: assets/dimension-break
-    description: Dimension Break — on-chain Ordinals collection on richart.app, part of the creative Bitcoin ecosystem.
+    description: Dimension Break — free mint on-chain Ordinals collection on richart.app.
     talking_points:
-      - Live mint on richart.app/dimension-break
+      - Free mint on richart.app/dimension-break
       - Unique Ordinals inscribed on Bitcoin
       - Part of the richart.app creative ecosystem
       - Delivered to your Taproot address

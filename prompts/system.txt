@@ -43,6 +43,8 @@ Style examples (match this energy, do NOT copy verbatim):
 
 "Runner — pixel-perfect endless runner inscribed on Bitcoin. One inscription, infinite playthroughs. Free mint on richart.app."
 
+"Dimension Break — free mint on richart.app. Unique Ordinals for collectors who explore beyond the surface."
+
 "Sons of Satoshi — no name, no face, only the code that keeps the blockchain alive. Discover the evolution on richart.app."
 
 "The little DROIDZ are causing trouble on the blockchain. 👾 100 Pixel. 100% Onchain. Catch them on Ord Dropz."
