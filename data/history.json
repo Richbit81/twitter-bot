@@ -151,9 +151,18 @@
       "posted_at": "2026-07-11T20:07:39.593564+00:00",
       "dry_run": false,
       "tweet_id": "2076035712537833478"
+    },
+    {
+      "text": "Just discovered Runner! 🏃‍♂️ An endless adventure inscribed on Bitcoin with pixel-perfect art. One inscription means infinite playthroughs. It’s not just a game; it’s on-chain art! Dive into the fun with a free mint here: https://richart.app/free-stuff",
+      "collection_id": "runners",
+      "image": "assets/runners/runner-1.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-11T22:41:38.344398+00:00",
+      "dry_run": false,
+      "tweet_id": "2076074462467039464"
     }
   ],
-  "last_collection_index": 7,
+  "last_collection_index": 8,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
@@ -163,6 +172,7 @@
     "smile_a_bit": 0,
     "tesseract": 0,
     "slums": 0,
-    "dimension_break": 0
+    "dimension_break": 0,
+    "runners": 0
   }
 }
