@@ -15,6 +15,7 @@ Each collection attaches one image per tweet.
 | `assets/slums/` | SLUMS | 3 artworks |
 | `assets/dimension-break/` | Dimension Break | 3 artworks |
 | `assets/runners/` | Runner | 2 artworks |
+| `assets/sons-of-satoshi/` | Sons of Satoshi | Evolution promo |
 
 Images rotate automatically — each post uses the next image in the folder.
 

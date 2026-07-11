@@ -107,6 +107,18 @@ collections:
       - On-chain game art — playable Ordinal
       - Part of the richart.app free stuff / games lineup
 
+  - id: sons_of_satoshi
+    name: Sons of Satoshi
+    url: https://richart.app/marketplace?collection=sosevo
+    image_dir: assets/sons-of-satoshi
+    description: Sons of Satoshi — no name, no face, only the code that keeps the blockchain alive. Evolution collection on Bitcoin Ordinals.
+    talking_points:
+      - No name, no face — only the code that keeps the blockchain alive
+      - Discover the evolution of the Sons of Satoshi
+      - Available on richart.app/marketplace
+      - Also on ord-dropz.xyz/secondary and ord.net
+      - Hidden among us — against the system
+
   - id: bitcoin_mixtape
     name: Bitcoin Mixtape
     url: https://richart.app/bitcoin-mixtape
