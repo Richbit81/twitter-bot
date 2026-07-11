@@ -120,10 +120,10 @@ collections:
       - Hidden among us — against the system
 
   - id: droidz
-    name: DROIDZ
+    name: Onchain DROIDZ
     url: https://ord-dropz.xyz
     image_dir: assets/droidz
-    description: The little DROIDZ are causing trouble on the blockchain — 100 pixel art, 100% on-chain Bitcoin Ordinals.
+    description: The little Onchain DROIDZ are causing trouble on the blockchain — 100 pixel art, 100% on-chain Bitcoin Ordinals.
     talking_points:
       - The little DROIDZ are causing trouble on the blockchain
       - 100 Pixel Art — 100% on-chain
