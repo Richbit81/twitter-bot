@@ -142,9 +142,18 @@
       "posted_at": "2026-07-11T16:44:11.513640+00:00",
       "dry_run": false,
       "tweet_id": "2075984508084539653"
+    },
+    {
+      "text": "Dimension Break is live! 🌌 Each unique Ordinal is an exploration of permanence on Bitcoin, beautifully inscribed and delivered to your Taproot address. This is where creativity meets blockchain innovation. Join the journey on richart.app! https://richart.app/dimension-break",
+      "collection_id": "dimension_break",
+      "image": "assets/dimension-break/dimension-break-1.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-11T20:07:39.593564+00:00",
+      "dry_run": false,
+      "tweet_id": "2076035712537833478"
     }
   ],
-  "last_collection_index": 6,
+  "last_collection_index": 7,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
@@ -153,6 +162,7 @@
     "bad_cats": 1,
     "smile_a_bit": 0,
     "tesseract": 0,
-    "slums": 0
+    "slums": 0,
+    "dimension_break": 0
   }
 }
