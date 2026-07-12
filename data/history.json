@@ -187,9 +187,18 @@
       "posted_at": "2026-07-12T20:07:51.863519+00:00",
       "dry_run": false,
       "tweet_id": "2076398151724908884"
+    },
+    {
+      "text": "Negative Type is all about embracing the dark vibes of creativity. Building this collection has been a cathartic journey, captured on-chain for those moments when we're not quite okay. Check it out and dive into the mood! 💀 https://ord-dropz.xyz",
+      "collection_id": "negative_type",
+      "image": "assets/negative-type/0001.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-12T22:41:31.574447+00:00",
+      "dry_run": false,
+      "tweet_id": "2076436821995655471"
     }
   ],
-  "last_collection_index": 11,
+  "last_collection_index": 12,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
@@ -203,6 +212,7 @@
     "runners": 0,
     "sons_of_satoshi": 0,
     "droidz": 0,
-    "consciousness_simulator": 0
+    "consciousness_simulator": 0,
+    "negative_type": 0
   }
 }
