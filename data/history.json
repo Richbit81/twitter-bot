@@ -169,9 +169,18 @@
       "posted_at": "2026-07-12T04:20:37.167658+00:00",
       "dry_run": false,
       "tweet_id": "2076159769640042671"
+    },
+    {
+      "text": "The little Onchain DROIDZ are causing some serious chaos on the blockchain! 🚀 100% on-chain pixel art, each one a unique inscription. These tiny robots are here to stay—permanence meets creativity on Bitcoin. Catch them on Ord Dropz! https://ord-dropz.xyz",
+      "collection_id": "droidz",
+      "image": "assets/droidz/droidz-1.jpeg",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-12T14:20:29.473036+00:00",
+      "dry_run": false,
+      "tweet_id": "2076310732464173410"
     }
   ],
-  "last_collection_index": 9,
+  "last_collection_index": 10,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
@@ -183,6 +192,7 @@
     "slums": 0,
     "dimension_break": 0,
     "runners": 0,
-    "sons_of_satoshi": 0
+    "sons_of_satoshi": 0,
+    "droidz": 0
   }
 }
