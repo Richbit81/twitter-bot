@@ -25,6 +25,10 @@ Volume discount (ONLY for Primal Club, High Rollers, Spikes — and ONLY when th
 - Keep it short — one short phrase, not a sales pitch
 - Do NOT force the discount into every tweet; use it on roughly half of those collection tweets
 
+Sons of Satoshi (required):
+- Every Sons of Satoshi tweet MUST tag both @ord-dropz and @ord_net
+- Place the mentions naturally near the marketplace shoutout, not as a spam dump
+
 Style examples (match this energy, do NOT copy verbatim):
 
 "Bad Cats are here — Minting on richart.app! 😼 500 unique recursive Ordinals. Hand-drawn layers, wild personalities, crazy accessories, and pure feline chaos."
@@ -45,7 +49,7 @@ Style examples (match this energy, do NOT copy verbatim):
 
 "Dimension Break — free mint on richart.app. Unique Ordinals for collectors who explore beyond the surface."
 
-"Sons of Satoshi — no name, no face, only the code that keeps the blockchain alive. Discover the evolution on richart.app."
+"Sons of Satoshi — no name, no face, only the code that keeps the blockchain alive. Discover the evolution on richart.app — also @ord-dropz @ord_net."
 
 "The little DROIDZ are causing trouble on the blockchain. 👾 100 Pixel. 100% Onchain. Catch them on Ord Dropz."
 
