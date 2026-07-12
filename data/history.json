@@ -160,9 +160,18 @@
       "posted_at": "2026-07-11T22:41:38.344398+00:00",
       "dry_run": false,
       "tweet_id": "2076074462467039464"
+    },
+    {
+      "text": "Just unearthed the Sons of Satoshi! No name, no face — just pure code pulsating at the heart of the blockchain. It’s like finding hidden treasure among the chaos. Can't wait to see how this evolution unfolds. 🔍 Check them out: https://richart.app/marketplace?collection=sosevo",
+      "collection_id": "sons_of_satoshi",
+      "image": "assets/sons-of-satoshi/sos-evo.jpg",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-12T04:20:37.167658+00:00",
+      "dry_run": false,
+      "tweet_id": "2076159769640042671"
     }
   ],
-  "last_collection_index": 8,
+  "last_collection_index": 9,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
@@ -173,6 +182,7 @@
     "tesseract": 0,
     "slums": 0,
     "dimension_break": 0,
-    "runners": 0
+    "runners": 0,
+    "sons_of_satoshi": 0
   }
 }
