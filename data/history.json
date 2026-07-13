@@ -196,9 +196,18 @@
       "posted_at": "2026-07-12T22:41:31.574447+00:00",
       "dry_run": false,
       "tweet_id": "2076436821995655471"
+    },
+    {
+      "text": "Hey, fam! 🌟 Don't forget to check out Ordheadz — a wild mix of 333 unique pieces with over 200 layers of generative chaos. Built for the community on the Ord Dropz Launchpad. Get yours on richart.app or https://ord-dropz.xyz!",
+      "collection_id": "ordheadz",
+      "image": "assets/ordheadz/ordheadz-1.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-13T04:24:17.632584+00:00",
+      "dry_run": false,
+      "tweet_id": "2076523082445885838"
     }
   ],
-  "last_collection_index": 12,
+  "last_collection_index": 13,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
@@ -213,6 +222,7 @@
     "sons_of_satoshi": 0,
     "droidz": 0,
     "consciousness_simulator": 0,
-    "negative_type": 0
+    "negative_type": 0,
+    "ordheadz": 0
   }
 }
