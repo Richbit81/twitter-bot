@@ -223,14 +223,23 @@
       "posted_at": "2026-07-13T17:49:26.458295+00:00",
       "dry_run": false,
       "tweet_id": "2076725703958290708"
+    },
+    {
+      "text": "Primal Club is a digital jungle of pure chaos! 🐒 With 480 unique primates, each mint carries its own vibe. Join the party—mint 5, get 1 free! Plus, snag +3 bonus spins on the richart.app prize spinner. Let’s monkey around! 🥳 https://richart.app/primal-club",
+      "collection_id": "primal_club",
+      "image": "assets/primal-club/0096.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-13T20:19:26.576875+00:00",
+      "dry_run": false,
+      "tweet_id": "2076763453532876890"
     }
   ],
-  "last_collection_index": 15,
+  "last_collection_index": 0,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
     "bitcoin_mixtape": 0,
-    "primal_club": 1,
+    "primal_club": 2,
     "bad_cats": 1,
     "smile_a_bit": 0,
     "tesseract": 0,
