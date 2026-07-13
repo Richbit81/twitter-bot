@@ -232,15 +232,24 @@
       "posted_at": "2026-07-13T20:19:26.576875+00:00",
       "dry_run": false,
       "tweet_id": "2076763453532876890"
+    },
+    {
+      "text": "Every Bad Cat is a unique inscription, a wild personality etched in the permanence of Bitcoin. 🐾 With 500 hand-drawn creations and hidden 1/1 psychopaths, it's feline chaos like you've never seen. Ready to explore this digital playground? 🧡 https://richart.app/badcats",
+      "collection_id": "bad_cats",
+      "image": "assets/bad-cats/18.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-13T22:51:14.363190+00:00",
+      "dry_run": false,
+      "tweet_id": "2076801654276378660"
     }
   ],
-  "last_collection_index": 0,
+  "last_collection_index": 1,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 2,
     "bitcoin_mixtape": 0,
     "primal_club": 2,
-    "bad_cats": 1,
+    "bad_cats": 2,
     "smile_a_bit": 0,
     "tesseract": 0,
     "slums": 0,
