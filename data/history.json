@@ -241,11 +241,20 @@
       "posted_at": "2026-07-13T22:51:14.363190+00:00",
       "dry_run": false,
       "tweet_id": "2076801654276378660"
+    },
+    {
+      "text": "Just minted some High Rollers! 🎲 The thrill of collecting unique pieces inscribed directly on Bitcoin is unmatched. Plus, minting up to 5 in one go means lower fees and a bonus spin on the prize spinner! Let's roll the dice! 🔥 https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0070.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-14T03:51:17.257720+00:00",
+      "dry_run": false,
+      "tweet_id": "2076877164021244362"
     }
   ],
-  "last_collection_index": 1,
+  "last_collection_index": 2,
   "last_image_indexes": {
-    "high_rollers": 2,
+    "high_rollers": 3,
     "spikes": 2,
     "bitcoin_mixtape": 0,
     "primal_club": 2,
