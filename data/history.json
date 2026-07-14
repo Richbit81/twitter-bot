@@ -277,9 +277,18 @@
       "posted_at": "2026-07-14T20:16:40.285309+00:00",
       "dry_run": false,
       "tweet_id": "2077125143843741719"
+    },
+    {
+      "text": "Behind the scenes of SLUMS, we crafted 333 unique pixel characters using 6 hand-picked layers. 🤖 Each layer adds depth, creating thousands of trait combos! This is where pixel art meets Bitcoin's permanence. Dive into the chaos on richart.app/slums! https://richart.app/slums",
+      "collection_id": "slums",
+      "image": "assets/slums/slums-2.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-14T22:53:11.598604+00:00",
+      "dry_run": false,
+      "tweet_id": "2077164533924405593"
     }
   ],
-  "last_collection_index": 5,
+  "last_collection_index": 6,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
@@ -288,7 +297,7 @@
     "bad_cats": 2,
     "smile_a_bit": 1,
     "tesseract": 0,
-    "slums": 0,
+    "slums": 1,
     "dimension_break": 0,
     "runners": 0,
     "sons_of_satoshi": 0,
