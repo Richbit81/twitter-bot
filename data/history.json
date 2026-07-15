@@ -304,9 +304,18 @@
       "posted_at": "2026-07-15T17:07:03.192552+00:00",
       "dry_run": false,
       "tweet_id": "2077439812420735449"
+    },
+    {
+      "text": "Sons of Satoshi are a testament to our decentralized spirit. No name, no face—just pure code uniting us all. Let's celebrate the evolution together! 🚀 Discover the magic, also on @ord-dropz and @ord_net. https://richart.app/marketplace?collection=sosevo",
+      "collection_id": "sons_of_satoshi",
+      "image": "assets/sons-of-satoshi/sos-evo.jpg",
+      "angle": "community",
+      "posted_at": "2026-07-15T20:14:44.407358+00:00",
+      "dry_run": false,
+      "tweet_id": "2077487045539156352"
     }
   ],
-  "last_collection_index": 8,
+  "last_collection_index": 9,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
