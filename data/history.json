@@ -295,9 +295,18 @@
       "posted_at": "2026-07-15T14:30:55.772960+00:00",
       "dry_run": false,
       "tweet_id": "2077400522743504963"
+    },
+    {
+      "text": "Runner takes pixel art to a new level! 🎮 Each inscription is a masterpiece of on-chain game art, delivering infinite playthroughs. Dive into the endless adventure with our totally free mint! Tap in here: https://richart.app/free-stuff",
+      "collection_id": "runners",
+      "image": "assets/runners/runner-2.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-15T17:07:03.192552+00:00",
+      "dry_run": false,
+      "tweet_id": "2077439812420735449"
     }
   ],
-  "last_collection_index": 7,
+  "last_collection_index": 8,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
@@ -308,7 +317,7 @@
     "tesseract": 0,
     "slums": 1,
     "dimension_break": 1,
-    "runners": 0,
+    "runners": 1,
     "sons_of_satoshi": 0,
     "droidz": 0,
     "consciousness_simulator": 0,
