@@ -313,9 +313,18 @@
       "posted_at": "2026-07-15T20:14:44.407358+00:00",
       "dry_run": false,
       "tweet_id": "2077487045539156352"
+    },
+    {
+      "text": "The Onchain DROIDZ are 100% fully inscribed pixel art on Bitcoin, adding a layer of permanence to their pixelated mischief! 🌀 Tiny robots, big chaos. Discover the tech behind each DROID and catch them on Ord Dropz! @ord-dropz @ord_net https://ord-dropz.xyz",
+      "collection_id": "droidz",
+      "image": "assets/droidz/droidz-2.jpeg",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-15T22:54:21.783348+00:00",
+      "dry_run": false,
+      "tweet_id": "2077527215437201441"
     }
   ],
-  "last_collection_index": 9,
+  "last_collection_index": 10,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
@@ -328,7 +337,7 @@
     "dimension_break": 1,
     "runners": 1,
     "sons_of_satoshi": 0,
-    "droidz": 0,
+    "droidz": 1,
     "consciousness_simulator": 0,
     "negative_type": 0,
     "ordheadz": 0,
