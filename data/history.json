@@ -286,9 +286,18 @@
       "posted_at": "2026-07-14T22:53:11.598604+00:00",
       "dry_run": false,
       "tweet_id": "2077164533924405593"
+    },
+    {
+      "text": "Explore the depths of creativity with Dimension Break! Every unique Ordinal is a piece of on-chain art, permanently inscribed on Bitcoin and delivered right to your Taproot address. This is where imagination meets permanence. Free mint here: https://richart.app/dimension-break 🔮",
+      "collection_id": "dimension_break",
+      "image": "assets/dimension-break/dimension-break-2.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-15T14:30:55.772960+00:00",
+      "dry_run": false,
+      "tweet_id": "2077400522743504963"
     }
   ],
-  "last_collection_index": 6,
+  "last_collection_index": 7,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
@@ -298,7 +307,7 @@
     "smile_a_bit": 1,
     "tesseract": 0,
     "slums": 1,
-    "dimension_break": 0,
+    "dimension_break": 1,
     "runners": 0,
     "sons_of_satoshi": 0,
     "droidz": 0,
