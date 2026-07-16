@@ -340,9 +340,18 @@
       "posted_at": "2026-07-16T14:51:07.526035+00:00",
       "dry_run": false,
       "tweet_id": "2077767993174458531"
+    },
+    {
+      "text": "Ordheadz are here to celebrate the chaos of creativity on-chain! 🚀 With 333 unique pieces and over 200 layers, each inscription is a permanent canvas of generative madness. Built for the community—let's embrace our wild side! 🌟 https://ord-dropz.xyz",
+      "collection_id": "ordheadz",
+      "image": "assets/ordheadz/ordheadz-1.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-16T17:05:22.979266+00:00",
+      "dry_run": false,
+      "tweet_id": "2077801780172181667"
     }
   ],
-  "last_collection_index": 12,
+  "last_collection_index": 13,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
