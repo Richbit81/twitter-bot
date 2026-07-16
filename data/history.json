@@ -322,9 +322,18 @@
       "posted_at": "2026-07-15T22:54:21.783348+00:00",
       "dry_run": false,
       "tweet_id": "2077527215437201441"
+    },
+    {
+      "text": "Worlds collide in the Consciousness Simulator — a deck of cards that blends two epic concepts on Bitcoin. 🌌 This is where permanence meets creativity. Ready to wake up in the Simulator? Explore the fusion on OrdX! https://www.ord-x.com/#Inside-the-Consciousness-Simulator",
+      "collection_id": "consciousness_simulator",
+      "image": "assets/simulator/simulator.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-16T03:55:27.109013+00:00",
+      "dry_run": false,
+      "tweet_id": "2077602987254665489"
     }
   ],
-  "last_collection_index": 10,
+  "last_collection_index": 11,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
@@ -338,7 +347,7 @@
     "runners": 1,
     "sons_of_satoshi": 0,
     "droidz": 1,
-    "consciousness_simulator": 0,
+    "consciousness_simulator": 1,
     "negative_type": 0,
     "ordheadz": 0,
     "splitverse_panda": 0
