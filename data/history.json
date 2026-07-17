@@ -385,11 +385,20 @@
       "posted_at": "2026-07-17T14:22:29.726284+00:00",
       "dry_run": false,
       "tweet_id": "2078123175892726130"
+    },
+    {
+      "text": "The community around High Rollers is buzzing! 🎲 Mint up to 5 unique pieces in one go and enjoy the lower fees while you stack your collection. Plus, each mint gets you +3 spins on the prize spinner! Let's keep elevating our Ordinals game together! https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0118.png",
+      "angle": "community",
+      "posted_at": "2026-07-17T17:02:11.938165+00:00",
+      "dry_run": false,
+      "tweet_id": "2078163365986189799"
     }
   ],
-  "last_collection_index": 1,
+  "last_collection_index": 2,
   "last_image_indexes": {
-    "high_rollers": 3,
+    "high_rollers": 4,
     "spikes": 3,
     "bitcoin_mixtape": 0,
     "primal_club": 3,
