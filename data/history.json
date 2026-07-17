@@ -367,14 +367,23 @@
       "posted_at": "2026-07-16T22:52:49.974002+00:00",
       "dry_run": false,
       "tweet_id": "2077889218878345476"
+    },
+    {
+      "text": "In the Primal Club, every unique primate is a celebration of chaos and creativity, permanently inscribed on Bitcoin. 🐒 Random mints mean real individuality—join the club run by monkeys and embrace the vibe! Plus, mint 5, get 1 free! https://richart.app/primal-club",
+      "collection_id": "primal_club",
+      "image": "assets/primal-club/0249.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-17T03:54:57.816028+00:00",
+      "dry_run": false,
+      "tweet_id": "2077965252470124771"
     }
   ],
-  "last_collection_index": 15,
+  "last_collection_index": 0,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
     "bitcoin_mixtape": 0,
-    "primal_club": 2,
+    "primal_club": 3,
     "bad_cats": 2,
     "smile_a_bit": 1,
     "tesseract": 0,
