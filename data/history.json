@@ -376,15 +376,24 @@
       "posted_at": "2026-07-17T03:54:57.816028+00:00",
       "dry_run": false,
       "tweet_id": "2077965252470124771"
+    },
+    {
+      "text": "Just discovered the wild world of Bad Cats! 😼 500 hand-drawn recursive Ordinals, each dripping with personality and attitude. And watch out for those hidden 1/1 psychopaths! No rules, just pure feline chaos. Dive in and mint on richart.app! https://richart.app/badcats",
+      "collection_id": "bad_cats",
+      "image": "assets/bad-cats/25.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-17T14:22:29.726284+00:00",
+      "dry_run": false,
+      "tweet_id": "2078123175892726130"
     }
   ],
-  "last_collection_index": 0,
+  "last_collection_index": 1,
   "last_image_indexes": {
     "high_rollers": 3,
     "spikes": 3,
     "bitcoin_mixtape": 0,
     "primal_club": 3,
-    "bad_cats": 2,
+    "bad_cats": 3,
     "smile_a_bit": 1,
     "tesseract": 0,
     "slums": 1,
