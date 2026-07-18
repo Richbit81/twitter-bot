@@ -412,9 +412,18 @@
       "posted_at": "2026-07-17T22:42:59.599319+00:00",
       "dry_run": false,
       "tweet_id": "2078249130431041648"
+    },
+    {
+      "text": "TESSERACT transforms your digital canvas into a masterpiece of unique hypercubes! 🎨 Each mint is a one-of-a-kind creation shaped by Bitcoin—geometry, palette, and soundscape all come together. Let’s celebrate on-chain permanence! Dive in at https://richart.app/acs",
+      "collection_id": "tesseract",
+      "image": "assets/tesseract/tesseract-1.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-18T03:48:40.552147+00:00",
+      "dry_run": false,
+      "tweet_id": "2078326057950707872"
     }
   ],
-  "last_collection_index": 4,
+  "last_collection_index": 5,
   "last_image_indexes": {
     "high_rollers": 4,
     "spikes": 0,
