@@ -475,9 +475,18 @@
       "posted_at": "2026-07-19T20:08:45.684975+00:00",
       "dry_run": false,
       "tweet_id": "2078935092315988441"
+    },
+    {
+      "text": "Negative Type embraces the raw vibes of creativity — for when you're not okay with being okay. 💔 It's all about connection through shared moods and artistic expression. Let's explore the darker side together, live on Ord Dropz! https://ord-dropz.xyz",
+      "collection_id": "negative_type",
+      "image": "assets/negative-type/0003.png",
+      "angle": "community",
+      "posted_at": "2026-07-19T22:44:39.904940+00:00",
+      "dry_run": false,
+      "tweet_id": "2078974325722431983"
     }
   ],
-  "last_collection_index": 11,
+  "last_collection_index": 12,
   "last_image_indexes": {
     "high_rollers": 4,
     "spikes": 0,
@@ -492,7 +501,7 @@
     "sons_of_satoshi": 0,
     "droidz": 0,
     "consciousness_simulator": 0,
-    "negative_type": 1,
+    "negative_type": 2,
     "ordheadz": 0,
     "splitverse_panda": 1
   }
