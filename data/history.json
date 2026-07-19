@@ -448,9 +448,18 @@
       "posted_at": "2026-07-18T20:05:35.116615+00:00",
       "dry_run": false,
       "tweet_id": "2078571905230283070"
+    },
+    {
+      "text": "Behind the code lies a journey of evolution—Sons of Satoshi remind us that it's not about names or faces. Just pure, unfiltered creativity creating ripples in the blockchain. Join the revolution! Also on @ord-dropz and @ord_net. https://richart.app/marketplace?collection=sosevo",
+      "collection_id": "sons_of_satoshi",
+      "image": "assets/sons-of-satoshi/sos-evo.jpg",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-19T14:17:08.257746+00:00",
+      "dry_run": false,
+      "tweet_id": "2078846603394159019"
     }
   ],
-  "last_collection_index": 8,
+  "last_collection_index": 9,
   "last_image_indexes": {
     "high_rollers": 4,
     "spikes": 0,
