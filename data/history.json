@@ -466,9 +466,18 @@
       "posted_at": "2026-07-19T16:46:39.751549+00:00",
       "dry_run": false,
       "tweet_id": "2078884232487989667"
+    },
+    {
+      "text": "Wake up in the Consciousness Simulator! 🌌 A unique deck of cards blending two epic concepts on Bitcoin, where permanence meets creativity. Experience the fusion and let your imagination run wild. Mint on OrdX: https://www.ord-x.com/#Inside-the-Consciousness-Simulator",
+      "collection_id": "consciousness_simulator",
+      "image": "assets/simulator/simulator.jpeg",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-19T20:08:45.684975+00:00",
+      "dry_run": false,
+      "tweet_id": "2078935092315988441"
     }
   ],
-  "last_collection_index": 10,
+  "last_collection_index": 11,
   "last_image_indexes": {
     "high_rollers": 4,
     "spikes": 0,
@@ -482,7 +491,7 @@
     "runners": 0,
     "sons_of_satoshi": 0,
     "droidz": 0,
-    "consciousness_simulator": 1,
+    "consciousness_simulator": 0,
     "negative_type": 1,
     "ordheadz": 0,
     "splitverse_panda": 1
