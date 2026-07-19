@@ -457,9 +457,18 @@
       "posted_at": "2026-07-19T14:17:08.257746+00:00",
       "dry_run": false,
       "tweet_id": "2078846603394159019"
+    },
+    {
+      "text": "The little Onchain DROIDZ are stirring up some pixelated chaos on the blockchain! 🔥 100% on-chain and fully inscribed. Catch these tiny robots causing big fun on richart.app. Explore the madness: https://ord-dropz.xyz",
+      "collection_id": "droidz",
+      "image": "assets/droidz/droidz-1.jpeg",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-19T16:46:39.751549+00:00",
+      "dry_run": false,
+      "tweet_id": "2078884232487989667"
     }
   ],
-  "last_collection_index": 9,
+  "last_collection_index": 10,
   "last_image_indexes": {
     "high_rollers": 4,
     "spikes": 0,
@@ -472,7 +481,7 @@
     "dimension_break": 2,
     "runners": 0,
     "sons_of_satoshi": 0,
-    "droidz": 1,
+    "droidz": 0,
     "consciousness_simulator": 1,
     "negative_type": 1,
     "ordheadz": 0,
