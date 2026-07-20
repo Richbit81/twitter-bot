@@ -484,9 +484,18 @@
       "posted_at": "2026-07-19T22:44:39.904940+00:00",
       "dry_run": false,
       "tweet_id": "2078974325722431983"
+    },
+    {
+      "text": "Ordheadz are still rocking the blockchain! 🎉 With 333 unique pieces and over 200 layers of generative chaos, there's so much creativity to dive into. Check out the magic on richart.app/marketplace and grab your piece on the Ord Dropz Launchpad! https://ord-dropz.xyz",
+      "collection_id": "ordheadz",
+      "image": "assets/ordheadz/ordheadz-1.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-20T04:30:19.629109+00:00",
+      "dry_run": false,
+      "tweet_id": "2079061315444711588"
     }
   ],
-  "last_collection_index": 12,
+  "last_collection_index": 13,
   "last_image_indexes": {
     "high_rollers": 4,
     "spikes": 0,
