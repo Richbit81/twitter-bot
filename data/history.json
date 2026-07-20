@@ -511,14 +511,23 @@
       "posted_at": "2026-07-20T17:25:00.890346+00:00",
       "dry_run": false,
       "tweet_id": "2079256272013017278"
+    },
+    {
+      "text": "Just minted my first Primal Club primate! 🐒 Each one is a unique character, running wild on Bitcoin with chaos and good vibes. Plus, minting 5 gets you 1 free—let's go! Earning spins on the prize spinner while I collect these wild ones. 🌟 https://richart.app/primal-club",
+      "collection_id": "primal_club",
+      "image": "assets/primal-club/0250.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-20T20:25:11.166449+00:00",
+      "dry_run": false,
+      "tweet_id": "2079301613764890839"
     }
   ],
-  "last_collection_index": 15,
+  "last_collection_index": 0,
   "last_image_indexes": {
     "high_rollers": 4,
     "spikes": 0,
     "bitcoin_mixtape": 0,
-    "primal_club": 3,
+    "primal_club": 4,
     "bad_cats": 3,
     "smile_a_bit": 2,
     "tesseract": 0,
