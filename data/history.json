@@ -520,15 +520,24 @@
       "posted_at": "2026-07-20T20:25:11.166449+00:00",
       "dry_run": false,
       "tweet_id": "2079301613764890839"
+    },
+    {
+      "text": "Diving into the wild world of Bad Cats was a journey of pure creativity! 🎨 Every layer hand-drawn, bursting with personality and style. It's about breaking the rules and letting the bad vibes flow! 😼 Mint on richart.app and snag +3 bonus spins! https://richart.app/badcats",
+      "collection_id": "bad_cats",
+      "image": "assets/bad-cats/4.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-20T22:54:10.677304+00:00",
+      "dry_run": false,
+      "tweet_id": "2079339108858740968"
     }
   ],
-  "last_collection_index": 0,
+  "last_collection_index": 1,
   "last_image_indexes": {
     "high_rollers": 4,
     "spikes": 0,
     "bitcoin_mixtape": 0,
     "primal_club": 4,
-    "bad_cats": 3,
+    "bad_cats": 4,
     "smile_a_bit": 2,
     "tesseract": 0,
     "slums": 2,
