@@ -529,11 +529,20 @@
       "posted_at": "2026-07-20T22:54:10.677304+00:00",
       "dry_run": false,
       "tweet_id": "2079339108858740968"
+    },
+    {
+      "text": "Building High Rollers has been a wild ride! 🎲 Every mint delivers straight to your Taproot address, and you can score up to 5 in one go—lower fees, higher vibes! Plus, the more you mint, the better the deal—5 gets you 1 free! 🔥 Check it out: https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0002.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-21T04:10:03.203038+00:00",
+      "dry_run": false,
+      "tweet_id": "2079418601514353103"
     }
   ],
-  "last_collection_index": 1,
+  "last_collection_index": 2,
   "last_image_indexes": {
-    "high_rollers": 4,
+    "high_rollers": 0,
     "spikes": 0,
     "bitcoin_mixtape": 0,
     "primal_club": 4,
