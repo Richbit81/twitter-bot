@@ -547,16 +547,25 @@
       "posted_at": "2026-07-21T17:07:46.566074+00:00",
       "dry_run": false,
       "tweet_id": "2079614321827651686"
+    },
+    {
+      "text": "SMILE A BIT! 😄 Each of the 222 unique Bitcoin Smiley Ordinals is 100% on-chain and brimming with positive vibes. The iconic B-shaped glasses symbolize pure energy and crypto emotion. Let's fill the blockchain with good vibes and smiles! https://richart.app/smile-a-bit",
+      "collection_id": "smile_a_bit",
+      "image": "assets/smile-a-bit/smile-4.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-21T20:21:02.208100+00:00",
+      "dry_run": false,
+      "tweet_id": "2079662957316002140"
     }
   ],
-  "last_collection_index": 3,
+  "last_collection_index": 4,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 1,
     "bitcoin_mixtape": 0,
     "primal_club": 4,
     "bad_cats": 4,
-    "smile_a_bit": 2,
+    "smile_a_bit": 3,
     "tesseract": 0,
     "slums": 2,
     "dimension_break": 2,
