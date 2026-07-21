@@ -538,12 +538,21 @@
       "posted_at": "2026-07-21T04:10:03.203038+00:00",
       "dry_run": false,
       "tweet_id": "2079418601514353103"
+    },
+    {
+      "text": "Just got my hands on some Cyber Spikes! ⚡️ These slim characters with massive spiky heads and glowing-symbol faces are on another level. Futuristic streetwear and on-chain art combine for a wild ride! Mint 5, get 1 free—let's stack 'em up! https://richart.app/spikes",
+      "collection_id": "spikes",
+      "image": "assets/spikes/0002.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-21T17:07:46.566074+00:00",
+      "dry_run": false,
+      "tweet_id": "2079614321827651686"
     }
   ],
-  "last_collection_index": 2,
+  "last_collection_index": 3,
   "last_image_indexes": {
     "high_rollers": 0,
-    "spikes": 0,
+    "spikes": 1,
     "bitcoin_mixtape": 0,
     "primal_club": 4,
     "bad_cats": 4,
