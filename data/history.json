@@ -574,9 +574,18 @@
       "posted_at": "2026-07-22T04:11:17.835753+00:00",
       "dry_run": false,
       "tweet_id": "2079781302476443721"
+    },
+    {
+      "text": "Dimension Break is here for those who love exploring new frontiers! 🌌 Free minting on richart.app — these unique Ordinals are all about creativity and discovery, delivered right to your Taproot address. Dive in and embrace the adventure! https://richart.app/dimension-break",
+      "collection_id": "dimension_break",
+      "image": "assets/dimension-break/dimension-break-1.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-22T14:51:05.838406+00:00",
+      "dry_run": false,
+      "tweet_id": "2079942313212616998"
     }
   ],
-  "last_collection_index": 6,
+  "last_collection_index": 7,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 1,
@@ -586,7 +595,7 @@
     "smile_a_bit": 3,
     "tesseract": 0,
     "slums": 0,
-    "dimension_break": 2,
+    "dimension_break": 0,
     "runners": 0,
     "sons_of_satoshi": 0,
     "droidz": 0,
