@@ -583,9 +583,18 @@
       "posted_at": "2026-07-22T14:51:05.838406+00:00",
       "dry_run": false,
       "tweet_id": "2079942313212616998"
+    },
+    {
+      "text": "Behind the scenes of Runner has been a wild ride! 🎮 Crafting an endless runner on-chain means every pixel counts—one inscription fuels infinite playthroughs. Join the adventure and mint for free on richart.app/free-stuff https://richart.app/free-stuff",
+      "collection_id": "runners",
+      "image": "assets/runners/runner-2.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-22T17:08:12.310536+00:00",
+      "dry_run": false,
+      "tweet_id": "2079976817533108632"
     }
   ],
-  "last_collection_index": 7,
+  "last_collection_index": 8,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 1,
@@ -596,7 +605,7 @@
     "tesseract": 0,
     "slums": 0,
     "dimension_break": 0,
-    "runners": 0,
+    "runners": 1,
     "sons_of_satoshi": 0,
     "droidz": 0,
     "consciousness_simulator": 0,
