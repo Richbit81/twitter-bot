@@ -601,9 +601,18 @@
       "posted_at": "2026-07-23T20:16:57.055753+00:00",
       "dry_run": false,
       "tweet_id": "2080386704914207057"
+    },
+    {
+      "text": "The Onchain DROIDZ are here to create some pixelated mischief! 🤖💥 Join the community of builders and collectors who thrive on creativity and chaos. Let's celebrate these tiny robots causing big fun on the blockchain! Catch them on Ord Dropz: https://ord-dropz.xyz",
+      "collection_id": "droidz",
+      "image": "assets/droidz/droidz-2.jpeg",
+      "angle": "community",
+      "posted_at": "2026-07-23T22:51:31.383242+00:00",
+      "dry_run": false,
+      "tweet_id": "2080425604227170619"
     }
   ],
-  "last_collection_index": 9,
+  "last_collection_index": 10,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 1,
@@ -616,7 +625,7 @@
     "dimension_break": 0,
     "runners": 1,
     "sons_of_satoshi": 0,
-    "droidz": 0,
+    "droidz": 1,
     "consciousness_simulator": 0,
     "negative_type": 2,
     "ordheadz": 0,
