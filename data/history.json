@@ -637,9 +637,18 @@
       "posted_at": "2026-07-24T17:21:26.739477+00:00",
       "dry_run": false,
       "tweet_id": "2080704925533704315"
+    },
+    {
+      "text": "SplitVerse PANDA is live on OpenSea! 🐼 This collection is all about community and collaboration, bringing together creativity from across the SplitVerse universe. Dive in and be part of something special! https://opensea.io/collection/splitverse-panda",
+      "collection_id": "splitverse_panda",
+      "image": "assets/splitverse-panda/panda-1.png",
+      "angle": "community",
+      "posted_at": "2026-07-24T20:23:59.373683+00:00",
+      "dry_run": false,
+      "tweet_id": "2080750863216267723"
     }
   ],
-  "last_collection_index": 13,
+  "last_collection_index": 14,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 1,
@@ -656,6 +665,6 @@
     "consciousness_simulator": 1,
     "negative_type": 3,
     "ordheadz": 0,
-    "splitverse_panda": 0
+    "splitverse_panda": 1
   }
 }
