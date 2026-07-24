@@ -619,9 +619,18 @@
       "posted_at": "2026-07-24T04:01:13.461304+00:00",
       "dry_run": false,
       "tweet_id": "2080503542599549017"
+    },
+    {
+      "text": "Negative Type is all about embracing the shadows—perfect for when you're not okay with being okay. Dive into the darker vibes and experience the permanence of on-chain art. 🔥 Mint live on Ord Dropz: https://ord-dropz.xyz",
+      "collection_id": "negative_type",
+      "image": "assets/negative-type/0004.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-24T14:30:38.336202+00:00",
+      "dry_run": false,
+      "tweet_id": "2080661940129370309"
     }
   ],
-  "last_collection_index": 11,
+  "last_collection_index": 12,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 1,
@@ -636,7 +645,7 @@
     "sons_of_satoshi": 0,
     "droidz": 1,
     "consciousness_simulator": 1,
-    "negative_type": 2,
+    "negative_type": 3,
     "ordheadz": 0,
     "splitverse_panda": 0
   }
