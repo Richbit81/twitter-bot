@@ -628,9 +628,18 @@
       "posted_at": "2026-07-24T14:30:38.336202+00:00",
       "dry_run": false,
       "tweet_id": "2080661940129370309"
+    },
+    {
+      "text": "Ordheadz is pure generative chaos with over 200 layers creating 333 unique pieces on the blockchain! 🌪️ Dive into the art of randomness and embrace the unexpected. Minting now on the Ord Dropz Launchpad! https://ord-dropz.xyz",
+      "collection_id": "ordheadz",
+      "image": "assets/ordheadz/ordheadz-1.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-24T17:21:26.739477+00:00",
+      "dry_run": false,
+      "tweet_id": "2080704925533704315"
     }
   ],
-  "last_collection_index": 12,
+  "last_collection_index": 13,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 1,
