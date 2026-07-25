@@ -664,15 +664,24 @@
       "posted_at": "2026-07-25T03:57:19.101634+00:00",
       "dry_run": false,
       "tweet_id": "2080864947995640090"
+    },
+    {
+      "text": "Creating Bad Cats has been an exhilarating ride! 🎨 Every unique piece bursts with personality, crafted layer by layer—think wild traits and crazy accessories. This isn't just art; it's a chaos-filled adventure on-chain! Dive into the feline frenzy: https://richart.app/badcats",
+      "collection_id": "bad_cats",
+      "image": "assets/bad-cats/7.png",
+      "angle": "creative_process",
+      "posted_at": "2026-07-25T14:24:20.960400+00:00",
+      "dry_run": false,
+      "tweet_id": "2081022745471795684"
     }
   ],
-  "last_collection_index": 0,
+  "last_collection_index": 1,
   "last_image_indexes": {
     "high_rollers": 0,
     "spikes": 1,
     "bitcoin_mixtape": 0,
     "primal_club": 0,
-    "bad_cats": 4,
+    "bad_cats": 5,
     "smile_a_bit": 3,
     "tesseract": 0,
     "slums": 0,
