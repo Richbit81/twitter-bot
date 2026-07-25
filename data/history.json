@@ -682,12 +682,21 @@
       "posted_at": "2026-07-25T16:46:31.251998+00:00",
       "dry_run": false,
       "tweet_id": "2081058524201922719"
+    },
+    {
+      "text": "Just uncovered the Cyber Spikes collection! ⚡️ These slim characters with massive spiky heads and glowing-symbol faces radiate futuristic vibes. The more you mint, the better the deal—5 gets you 1 free! Collect on-chain art and earn bonus spins too! https://richart.app/spikes",
+      "collection_id": "spikes",
+      "image": "assets/spikes/0003.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-25T20:12:54.975035+00:00",
+      "dry_run": false,
+      "tweet_id": "2081110465208254656"
     }
   ],
-  "last_collection_index": 2,
+  "last_collection_index": 3,
   "last_image_indexes": {
     "high_rollers": 1,
-    "spikes": 1,
+    "spikes": 2,
     "bitcoin_mixtape": 0,
     "primal_club": 0,
     "bad_cats": 5,
