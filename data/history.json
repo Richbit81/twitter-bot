@@ -673,11 +673,20 @@
       "posted_at": "2026-07-25T14:24:20.960400+00:00",
       "dry_run": false,
       "tweet_id": "2081022745471795684"
+    },
+    {
+      "text": "Just scored some High Rollers! 🎲 Minting up to 5 in one go feels like hitting the jackpot. Each inscription heads straight to my Taproot address—plus, the more I mint, the better the deal—5 gets me 1 free! Let's roll! 🔥 https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0035.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-25T16:46:31.251998+00:00",
+      "dry_run": false,
+      "tweet_id": "2081058524201922719"
     }
   ],
-  "last_collection_index": 1,
+  "last_collection_index": 2,
   "last_image_indexes": {
-    "high_rollers": 0,
+    "high_rollers": 1,
     "spikes": 1,
     "bitcoin_mixtape": 0,
     "primal_club": 0,
