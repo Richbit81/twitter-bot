@@ -700,9 +700,18 @@
       "posted_at": "2026-07-25T22:48:39.403607+00:00",
       "dry_run": false,
       "tweet_id": "2081149658127008191"
+    },
+    {
+      "text": "Every TESSERACT mint is a collaboration, where community and creation merge. 🔮 Each hypercube captures its own geometry, palette, and soundscape, transforming a simple inscription into a unique piece of art. Join the creative journey at https://richart.app/acs!",
+      "collection_id": "tesseract",
+      "image": "assets/tesseract/tesseract-1.png",
+      "angle": "community",
+      "posted_at": "2026-07-26T04:20:44.842188+00:00",
+      "dry_run": false,
+      "tweet_id": "2081233231911760140"
     }
   ],
-  "last_collection_index": 4,
+  "last_collection_index": 5,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 2,
