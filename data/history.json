@@ -736,9 +736,18 @@
       "posted_at": "2026-07-26T20:12:55.589929+00:00",
       "dry_run": false,
       "tweet_id": "2081472855754297596"
+    },
+    {
+      "text": "Sons of Satoshi are redefining the blockchain experience — no name, no face, just the code that keeps it alive. Discover the evolution and find your hidden gem on richart.app. Also check it out on @ord-dropz and @ord_net! 🔥 https://richart.app/marketplace?collection=sosevo",
+      "collection_id": "sons_of_satoshi",
+      "image": "assets/sons-of-satoshi/sos-evo.jpg",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-26T22:54:38.944393+00:00",
+      "dry_run": false,
+      "tweet_id": "2081513554411147366"
     }
   ],
-  "last_collection_index": 8,
+  "last_collection_index": 9,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 2,
