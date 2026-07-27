@@ -745,9 +745,18 @@
       "posted_at": "2026-07-26T22:54:38.944393+00:00",
       "dry_run": false,
       "tweet_id": "2081513554411147366"
+    },
+    {
+      "text": "The little Onchain DROIDZ are here, causing joyful chaos! 🤖💥 Each pixel is carefully crafted, fully inscribed on Bitcoin — a testament to creativity and the power of on-chain art. Dive into this pixelated adventure and catch them on Ord Dropz: https://ord-dropz.xyz",
+      "collection_id": "droidz",
+      "image": "assets/droidz/droidz-1.jpeg",
+      "angle": "creative_process",
+      "posted_at": "2026-07-27T04:31:05.776985+00:00",
+      "dry_run": false,
+      "tweet_id": "2081598224360755339"
     }
   ],
-  "last_collection_index": 9,
+  "last_collection_index": 10,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 2,
@@ -760,7 +769,7 @@
     "dimension_break": 1,
     "runners": 0,
     "sons_of_satoshi": 0,
-    "droidz": 1,
+    "droidz": 0,
     "consciousness_simulator": 1,
     "negative_type": 3,
     "ordheadz": 0,
