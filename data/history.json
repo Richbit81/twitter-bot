@@ -763,9 +763,18 @@
       "posted_at": "2026-07-27T15:33:56.151786+00:00",
       "dry_run": false,
       "tweet_id": "2081765033273594050"
+    },
+    {
+      "text": "Negative Type is all about diving into the shadows with sharp, on-chain art. 🌑 Each piece reflects that raw moment when things aren't okay. It's a generative process of embracing the uncomfortable. Mint now and explore the darkness on Ord Dropz: https://ord-dropz.xyz",
+      "collection_id": "negative_type",
+      "image": "assets/negative-type/0005.png",
+      "angle": "creative_process",
+      "posted_at": "2026-07-27T17:36:49.526082+00:00",
+      "dry_run": false,
+      "tweet_id": "2081795959189860402"
     }
   ],
-  "last_collection_index": 11,
+  "last_collection_index": 12,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 2,
@@ -780,7 +789,7 @@
     "sons_of_satoshi": 0,
     "droidz": 0,
     "consciousness_simulator": 0,
-    "negative_type": 3,
+    "negative_type": 4,
     "ordheadz": 0,
     "splitverse_panda": 1
   }
