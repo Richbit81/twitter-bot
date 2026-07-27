@@ -754,9 +754,18 @@
       "posted_at": "2026-07-27T04:31:05.776985+00:00",
       "dry_run": false,
       "tweet_id": "2081598224360755339"
+    },
+    {
+      "text": "Worlds collide in the Consciousness Simulator! Dive into a unique deck of cards where two epic experiences fuse into one. Let’s wake up together! Mint on OrdX and explore this mind-bending ride: https://www.ord-x.com/#Inside-the-Consciousness-Simulator",
+      "collection_id": "consciousness_simulator",
+      "image": "assets/simulator/simulator.jpeg",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-27T15:33:56.151786+00:00",
+      "dry_run": false,
+      "tweet_id": "2081765033273594050"
     }
   ],
-  "last_collection_index": 10,
+  "last_collection_index": 11,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 2,
@@ -770,7 +779,7 @@
     "runners": 0,
     "sons_of_satoshi": 0,
     "droidz": 0,
-    "consciousness_simulator": 1,
+    "consciousness_simulator": 0,
     "negative_type": 3,
     "ordheadz": 0,
     "splitverse_panda": 1
