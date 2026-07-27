@@ -772,9 +772,18 @@
       "posted_at": "2026-07-27T17:36:49.526082+00:00",
       "dry_run": false,
       "tweet_id": "2081795959189860402"
+    },
+    {
+      "text": "Don't sleep on those Ordheadz! 🌀 With over 200 layers of pure generative chaos, these 333 unique pieces are crafted for the community by yours truly. Minting on the Ord Dropz Launchpad and waiting for you to explore! Check it out: https://ord-dropz.xyz",
+      "collection_id": "ordheadz",
+      "image": "assets/ordheadz/ordheadz-1.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-27T20:25:32.847733+00:00",
+      "dry_run": false,
+      "tweet_id": "2081838419861246022"
     }
   ],
-  "last_collection_index": 12,
+  "last_collection_index": 13,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 2,
