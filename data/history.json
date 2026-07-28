@@ -808,15 +808,24 @@
       "posted_at": "2026-07-28T15:08:34.793562+00:00",
       "dry_run": false,
       "tweet_id": "2082121039916482768"
+    },
+    {
+      "text": "Building Bad Cats was a chaotic joy! 🎉 Each one is crafted layer by layer, infusing wild traits and unique accessories. It's a playground of style where no rules apply! Mint now and earn +3 bonus spins on the spinner. Let the feline frenzy begin! https://richart.app/badcats",
+      "collection_id": "bad_cats",
+      "image": "assets/bad-cats/12.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-07-28T17:19:48.067810+00:00",
+      "dry_run": false,
+      "tweet_id": "2082154062871433407"
     }
   ],
-  "last_collection_index": 0,
+  "last_collection_index": 1,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 2,
     "bitcoin_mixtape": 0,
     "primal_club": 1,
-    "bad_cats": 5,
+    "bad_cats": 0,
     "smile_a_bit": 4,
     "tesseract": 0,
     "slums": 1,
