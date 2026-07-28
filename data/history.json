@@ -817,11 +817,20 @@
       "posted_at": "2026-07-28T17:19:48.067810+00:00",
       "dry_run": false,
       "tweet_id": "2082154062871433407"
+    },
+    {
+      "text": "High Rollers lets you mint up to 5 in one transaction — less fees, more fun! 💸 Each piece is delivered to your Taproot address, inscribed directly on Bitcoin. Plus, minting earns you +3 bonus spins on the prize spinner! 🎰 https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0052.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-28T20:20:28.502727+00:00",
+      "dry_run": false,
+      "tweet_id": "2082199531186159660"
     }
   ],
-  "last_collection_index": 1,
+  "last_collection_index": 2,
   "last_image_indexes": {
-    "high_rollers": 1,
+    "high_rollers": 2,
     "spikes": 2,
     "bitcoin_mixtape": 0,
     "primal_club": 1,
