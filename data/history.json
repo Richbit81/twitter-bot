@@ -799,14 +799,23 @@
       "posted_at": "2026-07-28T03:54:20.286844+00:00",
       "dry_run": false,
       "tweet_id": "2081951361495658586"
+    },
+    {
+      "text": "Primal Club is all about the wild creativity behind its 480 unique primates! 🐒 Each mint brings a random masterpiece to life, all inscribed on Bitcoin. It’s a club run by monkeys, bringing good vibes and certified chaos! Mint 5, get 1 free! https://richart.app/primal-club",
+      "collection_id": "primal_club",
+      "image": "assets/primal-club/0042.png",
+      "angle": "creative_process",
+      "posted_at": "2026-07-28T15:08:34.793562+00:00",
+      "dry_run": false,
+      "tweet_id": "2082121039916482768"
     }
   ],
-  "last_collection_index": 15,
+  "last_collection_index": 0,
   "last_image_indexes": {
     "high_rollers": 1,
     "spikes": 2,
     "bitcoin_mixtape": 0,
-    "primal_club": 0,
+    "primal_club": 1,
     "bad_cats": 5,
     "smile_a_bit": 4,
     "tesseract": 0,
