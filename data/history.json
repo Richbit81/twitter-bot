@@ -862,9 +862,18 @@
       "posted_at": "2026-07-29T17:05:46.530401+00:00",
       "dry_run": false,
       "tweet_id": "2082512921154687072"
+    },
+    {
+      "text": "Dimension Break is a playground for the curious! 🌌 Each Ordinal is uniquely inscribed on Bitcoin and delivered directly to your Taproot address. Explore beyond the surface and experience the magic of on-chain creativity. Free minting at: https://richart.app/dimension-break",
+      "collection_id": "dimension_break",
+      "image": "assets/dimension-break/dimension-break-3.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-29T20:15:11.045466+00:00",
+      "dry_run": false,
+      "tweet_id": "2082560587322577407"
     }
   ],
-  "last_collection_index": 6,
+  "last_collection_index": 7,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
@@ -874,7 +883,7 @@
     "smile_a_bit": 5,
     "tesseract": 0,
     "slums": 2,
-    "dimension_break": 1,
+    "dimension_break": 2,
     "runners": 0,
     "sons_of_satoshi": 0,
     "droidz": 0,
