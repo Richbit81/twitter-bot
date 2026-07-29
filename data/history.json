@@ -853,9 +853,18 @@
       "posted_at": "2026-07-29T15:01:38.454214+00:00",
       "dry_run": false,
       "tweet_id": "2082481681731309937"
+    },
+    {
+      "text": "SLUMS is waiting for you! 🌌 With 333 unique pixel characters and 6 hand-crafted layers, the possibilities are endless. Dive into this on-chain pixel art adventure and find your favorite today! Check it out on richart.app! https://richart.app/slums",
+      "collection_id": "slums",
+      "image": "assets/slums/slums-3.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-07-29T17:05:46.530401+00:00",
+      "dry_run": false,
+      "tweet_id": "2082512921154687072"
     }
   ],
-  "last_collection_index": 5,
+  "last_collection_index": 6,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
@@ -864,7 +873,7 @@
     "bad_cats": 0,
     "smile_a_bit": 5,
     "tesseract": 0,
-    "slums": 1,
+    "slums": 2,
     "dimension_break": 1,
     "runners": 0,
     "sons_of_satoshi": 0,
