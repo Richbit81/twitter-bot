@@ -871,9 +871,18 @@
       "posted_at": "2026-07-29T20:15:11.045466+00:00",
       "dry_run": false,
       "tweet_id": "2082560587322577407"
+    },
+    {
+      "text": "Runner is not just a game; it's fully inscribed on Bitcoin! One inscription = infinite playthroughs. 🕹️ Dive into the pixel-perfect endless runner and experience on-chain game art like never before. Free mint on richart.app/free-stuff https://richart.app/free-stuff",
+      "collection_id": "runners",
+      "image": "assets/runners/runner-2.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-07-29T22:56:22.939737+00:00",
+      "dry_run": false,
+      "tweet_id": "2082601154383671573"
     }
   ],
-  "last_collection_index": 7,
+  "last_collection_index": 8,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
@@ -884,7 +893,7 @@
     "tesseract": 0,
     "slums": 2,
     "dimension_break": 2,
-    "runners": 0,
+    "runners": 1,
     "sons_of_satoshi": 0,
     "droidz": 0,
     "consciousness_simulator": 0,
