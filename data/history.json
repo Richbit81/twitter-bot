@@ -844,9 +844,18 @@
       "posted_at": "2026-07-29T03:58:38.103449+00:00",
       "dry_run": false,
       "tweet_id": "2082314829444927728"
+    },
+    {
+      "text": "Every TESSERACT mint is a journey of creation! 🔮 Watch as Bitcoin transforms your inscription into a unique hypercube, each with its own geometry, palette, and soundscape. No two are ever the same — the art is in the process! Explore the magic: https://richart.app/acs",
+      "collection_id": "tesseract",
+      "image": "assets/tesseract/tesseract-1.png",
+      "angle": "creative_process",
+      "posted_at": "2026-07-29T15:01:38.454214+00:00",
+      "dry_run": false,
+      "tweet_id": "2082481681731309937"
     }
   ],
-  "last_collection_index": 4,
+  "last_collection_index": 5,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
