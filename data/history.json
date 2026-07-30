@@ -880,9 +880,18 @@
       "posted_at": "2026-07-29T22:56:22.939737+00:00",
       "dry_run": false,
       "tweet_id": "2082601154383671573"
+    },
+    {
+      "text": "Sons of Satoshi are born from code and creativity — no name, no face. Discover the evolution hidden among us, sculpting the blockchain with every inscription. 🧡 Check them out on richart.app, also at @ord-dropz and @ord_net! https://richart.app/marketplace?collection=sosevo",
+      "collection_id": "sons_of_satoshi",
+      "image": "assets/sons-of-satoshi/sos-evo.jpg",
+      "angle": "creative_process",
+      "posted_at": "2026-07-30T22:59:45.099834+00:00",
+      "dry_run": false,
+      "tweet_id": "2082964390090101084"
     }
   ],
-  "last_collection_index": 8,
+  "last_collection_index": 9,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
