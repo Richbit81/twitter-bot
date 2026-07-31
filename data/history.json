@@ -916,9 +916,18 @@
       "posted_at": "2026-07-31T17:21:02.551507+00:00",
       "dry_run": false,
       "tweet_id": "2083241539070030023"
+    },
+    {
+      "text": "Just minted my first Ordheadz! 🌀 The fusion of over 200 layers of generative traits creates a chaotic beauty that's hard to resist. Each piece is unique and crafted with love for the community. Join me in exploring this wild ride on the Ord Dropz Launchpad! https://ord-dropz.xyz",
+      "collection_id": "ordheadz",
+      "image": "assets/ordheadz/ordheadz-1.png",
+      "angle": "collector_pov",
+      "posted_at": "2026-07-31T20:22:36.168371+00:00",
+      "dry_run": false,
+      "tweet_id": "2083287230341378292"
     }
   ],
-  "last_collection_index": 12,
+  "last_collection_index": 13,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
