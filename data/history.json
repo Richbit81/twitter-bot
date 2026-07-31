@@ -907,9 +907,18 @@
       "posted_at": "2026-07-31T15:11:38.089610+00:00",
       "dry_run": false,
       "tweet_id": "2083208972178481547"
+    },
+    {
+      "text": "Negative Type is live — a dark journey for when you're not okay with being okay. Each inscription is a moment of permanence, crafted to capture the sharp edges of reality. Explore this on-chain art and embrace the shadows on Ord Dropz: https://ord-dropz.xyz",
+      "collection_id": "negative_type",
+      "image": "assets/negative-type/0006.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-07-31T17:21:02.551507+00:00",
+      "dry_run": false,
+      "tweet_id": "2083241539070030023"
     }
   ],
-  "last_collection_index": 11,
+  "last_collection_index": 12,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
@@ -924,7 +933,7 @@
     "sons_of_satoshi": 0,
     "droidz": 1,
     "consciousness_simulator": 1,
-    "negative_type": 4,
+    "negative_type": 5,
     "ordheadz": 0,
     "splitverse_panda": 0
   }
