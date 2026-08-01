@@ -925,9 +925,18 @@
       "posted_at": "2026-07-31T20:22:36.168371+00:00",
       "dry_run": false,
       "tweet_id": "2083287230341378292"
+    },
+    {
+      "text": "SplitVerse PANDA is live on OpenSea! 🌌 Each mint captures the essence of cross-chain creativity, inscribing your unique piece on the blockchain. Join the SplitVerse universe and let’s explore new dimensions together! https://opensea.io/collection/splitverse-panda",
+      "collection_id": "splitverse_panda",
+      "image": "assets/splitverse-panda/panda-1.png",
+      "angle": "tech_fact",
+      "posted_at": "2026-08-01T22:48:54.481304+00:00",
+      "dry_run": false,
+      "tweet_id": "2083686437116055790"
     }
   ],
-  "last_collection_index": 13,
+  "last_collection_index": 14,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
@@ -944,6 +953,6 @@
     "consciousness_simulator": 1,
     "negative_type": 5,
     "ordheadz": 0,
-    "splitverse_panda": 0
+    "splitverse_panda": 1
   }
 }
