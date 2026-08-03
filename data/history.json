@@ -934,9 +934,18 @@
       "posted_at": "2026-08-01T22:48:54.481304+00:00",
       "dry_run": false,
       "tweet_id": "2083686437116055790"
+    },
+    {
+      "text": "The Bitcoin Mixtape is a journey through sound! 🎶 With 16+ tracks and high-quality audio embedded on-chain, it's not just music—it's a living archive. Explore while you play in PatoshiWorld and let the beats guide you! Check it out: https://richart.app/bitcoin-mixtape",
+      "collection_id": "bitcoin_mixtape",
+      "image": "assets/bitcoin-mixtape.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-08-03T04:23:39.229367+00:00",
+      "dry_run": false,
+      "tweet_id": "2084133066386403609"
     }
   ],
-  "last_collection_index": 14,
+  "last_collection_index": 15,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
