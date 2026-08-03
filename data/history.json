@@ -943,14 +943,23 @@
       "posted_at": "2026-08-03T04:23:39.229367+00:00",
       "dry_run": false,
       "tweet_id": "2084133066386403609"
+    },
+    {
+      "text": "Primal Club is alive with 480 unique primates, each bringing their own flavor of chaos to the blockchain! 🐒 Good vibes guaranteed. Remember, the more you mint, the better the deal — mint 5, get 1 free! Plus, earn +3 bonus spins! Join us: https://richart.app/primal-club",
+      "collection_id": "primal_club",
+      "image": "assets/primal-club/0096.png",
+      "angle": "mint_reminder",
+      "posted_at": "2026-08-03T15:34:10.907382+00:00",
+      "dry_run": false,
+      "tweet_id": "2084301809729114351"
     }
   ],
-  "last_collection_index": 15,
+  "last_collection_index": 0,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
     "bitcoin_mixtape": 0,
-    "primal_club": 1,
+    "primal_club": 2,
     "bad_cats": 0,
     "smile_a_bit": 5,
     "tesseract": 0,
