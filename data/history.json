@@ -961,11 +961,20 @@
       "posted_at": "2026-08-04T17:30:09.318680+00:00",
       "dry_run": false,
       "tweet_id": "2084693383835250922"
+    },
+    {
+      "text": "High Rollers is all about the community! 🙌 Play at the table and mint up to 5 in one transaction—cheaper fees, more fun! Each piece goes straight to your Taproot address, plus a bonus of +3 spins on the prize spinner. Let’s roll together! 🎰 https://richart.app/high-rollers",
+      "collection_id": "high_rollers",
+      "image": "assets/high-rollers/0070.png",
+      "angle": "community",
+      "posted_at": "2026-08-04T20:36:47.981368+00:00",
+      "dry_run": false,
+      "tweet_id": "2084740354260234651"
     }
   ],
-  "last_collection_index": 1,
+  "last_collection_index": 2,
   "last_image_indexes": {
-    "high_rollers": 2,
+    "high_rollers": 3,
     "spikes": 3,
     "bitcoin_mixtape": 0,
     "primal_club": 2,
