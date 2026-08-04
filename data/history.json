@@ -952,15 +952,24 @@
       "posted_at": "2026-08-03T15:34:10.907382+00:00",
       "dry_run": false,
       "tweet_id": "2084301809729114351"
+    },
+    {
+      "text": "Bad Cats are more than just 500 unique recursive Ordinals; they're a declaration of on-chain permanence. Each mint captures wild personalities and crazy accessories, forever etched on Bitcoin. Unleash the chaos! 😼 https://richart.app/badcats",
+      "collection_id": "bad_cats",
+      "image": "assets/bad-cats/15.png",
+      "angle": "on_chain_permanence",
+      "posted_at": "2026-08-04T17:30:09.318680+00:00",
+      "dry_run": false,
+      "tweet_id": "2084693383835250922"
     }
   ],
-  "last_collection_index": 0,
+  "last_collection_index": 1,
   "last_image_indexes": {
     "high_rollers": 2,
     "spikes": 3,
     "bitcoin_mixtape": 0,
     "primal_club": 2,
-    "bad_cats": 0,
+    "bad_cats": 1,
     "smile_a_bit": 5,
     "tesseract": 0,
     "slums": 2,
