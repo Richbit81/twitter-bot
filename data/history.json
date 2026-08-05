@@ -970,12 +970,21 @@
       "posted_at": "2026-08-04T20:36:47.981368+00:00",
       "dry_run": false,
       "tweet_id": "2084740354260234651"
+    },
+    {
+      "text": "Behind the scenes of Cyber Spikes! 🚀 Every character is a labor of love, blending spiky aesthetics and futuristic vibes. Inscribed entirely on Bitcoin, these creations embody the essence of on-chain art. And remember, mint 5, get 1 free! Dive in: https://richart.app/spikes",
+      "collection_id": "spikes",
+      "image": "assets/spikes/0001.png",
+      "angle": "behind_the_scenes",
+      "posted_at": "2026-08-05T03:53:03.772045+00:00",
+      "dry_run": false,
+      "tweet_id": "2084850143636120010"
     }
   ],
-  "last_collection_index": 2,
+  "last_collection_index": 3,
   "last_image_indexes": {
     "high_rollers": 3,
-    "spikes": 3,
+    "spikes": 0,
     "bitcoin_mixtape": 0,
     "primal_club": 2,
     "bad_cats": 1,
